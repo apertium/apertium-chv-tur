@@ -1,0 +1,58 @@
+* text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/adj_decl.txt -text
+/apertium-cv-tr.cv-tr.dix -text
+/apertium-cv-tr.cv-tr.lrx -text
+/apertium-cv-tr.cv-tr.rlx -text
+/apertium-cv-tr.cv-tr.t1x -text
+/apertium-cv-tr.cv-tr.t2x -text
+/apertium-cv-tr.cv-tr.t3x -text
+/apertium-cv-tr.cv.acx -text
+/apertium-cv-tr.cv.lexc -text
+/apertium-cv-tr.cv.twol -text
+/apertium-cv-tr.tr-cv.lrx -text
+/apertium-cv-tr.tr-cv.rlx -text
+/apertium-cv-tr.tr-cv.t1x -text
+/apertium-cv-tr.tr-cv.t2x -text
+/apertium-cv-tr.tr-cv.t3x -text
+/apertium-cv-tr.tr-cv.t4x -text
+/apertium-cv-tr.tr.lexc -text
+/apertium-cv-tr.tr.twol -text
+/autogen.sh -text
+/configure.ac -text
+/conversio.sh -text
+/cv-tr.prob -text svneol=unset#unset
+/cv.sh -text
+/decl.txt -text
+dev/apertium-cv-tr.cv-tr-full.dix -text
+dev/apertium-cv-tr.cv.lexc-19abril2012 -text
+dev/tr-freq.txt -text
+dev/tr-post.txt -text
+/gen_adj.sh -text
+/gen_noun.sh -text
+/gen_noun_list.sh -text
+/modes.xml -text
+/noms.txt -text
+/noun_decl.txt -text
+/noun_decl_wiki.txt -text
+/nova_versio.sh -text
+/pending-tests.sh -text
+/regression-tests.sh -text
+/test.sh -text
+texts/cv-1.txt -text svneol=unset#application/octet-stream
+texts/cv-2.txt -text svneol=unset#application/octet-stream
+texts/cv-3.txt -text
+texts/cv-4.txt -text svneol=unset#application/octet-stream
+texts/tr.txt -text
+/tr-cv.prob -text svneol=unset#unset
+/twolc_debug.py -text
+/verb-wiki.txt -text
+/wiki-tests.sh -text
+/wiki_noun.tmpl -text
+/wiki_verb.tmpl -text
+/write_wiki_noun.sh -text
+/write_wiki_verb.sh -text
