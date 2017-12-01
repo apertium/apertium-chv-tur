@@ -3,8 +3,8 @@
 ###############################################################################
 
 VERSION=0.1.0
-LANG1=cv
-LANG2=tr
+LANG1=chv
+LANG2=tur
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
@@ -91,23 +91,23 @@ $(PREFIX2).automorf.hfst: .deps/$(LANG2).LR.hfst
 ## Debugging transducers (for testvoc)
 ###############################################################################
 
-.deps/cv.LR-debug.twol.hfst: $(BASENAME).$(LANG1).twol
+.deps/chv.LR-debug.twol.hfst: $(BASENAME).$(LANG1).twol
 	if [ ! -d .deps ]; then mkdir .deps; fi
 	cat $< | grep -v 'Use/Default' > .deps/$(LANG1).LR-debug.twol
 	hfst-twolc .deps/$(LANG1).LR-debug.twol -o $@
 
-.deps/cv.LR-debug.hfst: $(BASENAME).$(LANG1).lexc .deps/$(LANG1).LR-debug.twol.hfst
+.deps/chv.LR-debug.hfst: $(BASENAME).$(LANG1).lexc .deps/$(LANG1).LR-debug.twol.hfst
 	if [ ! -d .deps ]; then mkdir .deps; fi
 	cat $< | grep -v 'Dir/RL' | grep -v 'Use/Circ' > .deps/$(LANG1).LR-debug.lexc
 	hfst-lexc --format foma .deps/$(LANG1).LR-debug.lexc -o .deps/$(LANG1).LR-debug.lexc.hfst
 	hfst-compose-intersect -1 .deps/$(LANG1).LR-debug.lexc.hfst -2 .deps/$(LANG1).LR.twol.hfst -o $@
 
-.deps/tr.LR-debug.twol.hfst: $(BASENAME).$(LANG2).twol
+.deps/tur.LR-debug.twol.hfst: $(BASENAME).$(LANG2).twol
 	if [ ! -d .deps ]; then mkdir .deps; fi
 	cat $< | grep -v 'Use/Default' > .deps/$(LANG2).LR-debug.twol
 	hfst-twolc .deps/$(LANG2).LR-debug.twol -o $@
 
-.deps/tr.LR-debug.hfst: $(BASENAME).$(LANG2).lexc
+.deps/tur.LR-debug.hfst: $(BASENAME).$(LANG2).lexc
 	if [ ! -d .deps ]; then mkdir .deps; fi
 	cat $< | grep -v 'Dir/RL' | grep -v 'Use/Circ' > .deps/$(LANG2).LR-debug.lexc
 	hfst-lexc --format foma .deps/$(LANG2).LR-debug.lexc -o .deps/$(LANG2).LR-debug.lexc.hfst
@@ -210,10 +210,10 @@ EXTRA_DIST=$(PREFIX1).prob $(PREFIX2).prob \
            $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x \
            modes.xml
 
-apertium_cv_trmodesdir=$(prefix)/share/apertium/modes/
-apertium_cv_trdir=$(prefix)/share/apertium/$(BASENAME)/
+apertium_chv_turmodesdir=$(prefix)/share/apertium/modes/
+apertium_chv_turdir=$(prefix)/share/apertium/$(BASENAME)/
 
-apertium_cv_tr_DATA=$(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
+apertium_chv_tur_DATA=$(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
                     $(PREFIX1).prob $(PREFIX2).prob \
 		    $(PREFIX1).autogen.hfst $(PREFIX2).autogen.hfst \
 		    $(PREFIX1).automorf.hfst $(PREFIX2).automorf.hfst \
@@ -235,16 +235,16 @@ install-data-local:
 	$(prefix)/bin/apertium-gen-modes modes.xml $(BASENAME)
 	rm -rf modes
 	mv modes~ modes
-	test -d $(DESTDIR)$(apertium_cv_trmodesdir) || mkdir $(DESTDIR)$(apertium_cv_trmodesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_cv_trmodesdir)
+	test -d $(DESTDIR)$(apertium_chv_turmodesdir) || mkdir $(DESTDIR)$(apertium_chv_turmodesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_chv_turmodesdir)
 	rm $(PREFIX1).mode
 	rm $(PREFIX2).mode
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_cv_trdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_cv_trdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_cv_trdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_cv_trdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_cv_trdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_cv_trdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t4x $(DESTDIR)$(apertium_cv_trdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_chv_turdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_chv_turdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_chv_turdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(DESTDIR)$(apertium_chv_turdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_chv_turdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_chv_turdir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t4x $(DESTDIR)$(apertium_chv_turdir)
 
 CLEANFILES = -r $(TARGETS_COMMON) .deps/

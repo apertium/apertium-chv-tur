@@ -5,27 +5,27 @@
 /NEWS -text
 /README -text
 /adj_decl.txt -text
-/apertium-cv-tr.cv-tr.dix -text
-/apertium-cv-tr.cv-tr.lrx -text
-/apertium-cv-tr.cv-tr.rlx -text
-/apertium-cv-tr.cv-tr.t1x -text
-/apertium-cv-tr.cv-tr.t2x -text
-/apertium-cv-tr.cv-tr.t3x -text
-/apertium-cv-tr.cv.acx -text
-/apertium-cv-tr.cv.lexc -text
-/apertium-cv-tr.cv.twol -text
-/apertium-cv-tr.tr-cv.lrx -text
-/apertium-cv-tr.tr-cv.rlx -text
-/apertium-cv-tr.tr-cv.t1x -text
-/apertium-cv-tr.tr-cv.t2x -text
-/apertium-cv-tr.tr-cv.t3x -text
-/apertium-cv-tr.tr-cv.t4x -text
-/apertium-cv-tr.tr.lexc -text
-/apertium-cv-tr.tr.twol -text
+/apertium-chv-tur.chv-tur.dix -text
+/apertium-chv-tur.chv-tur.lrx -text
+/apertium-chv-tur.chv-tur.rlx -text
+/apertium-chv-tur.chv-tur.t1x -text
+/apertium-chv-tur.chv-tur.t2x -text
+/apertium-chv-tur.chv-tur.t3x -text
+/apertium-chv-tur.chv.acx -text
+/apertium-chv-tur.chv.lexc -text
+/apertium-chv-tur.chv.twol -text
+/apertium-chv-tur.tur-chv.lrx -text
+/apertium-chv-tur.tur-chv.rlx -text
+/apertium-chv-tur.tur-chv.t1x -text
+/apertium-chv-tur.tur-chv.t2x -text
+/apertium-chv-tur.tur-chv.t3x -text
+/apertium-chv-tur.tur-chv.t4x -text
+/apertium-chv-tur.tur.lexc -text
+/apertium-chv-tur.tur.twol -text
 /autogen.sh -text
+/chv-tur.prob -text svneol=unset#unset
 /configure.ac -text
 /conversio.sh -text
-/cv-tr.prob -text svneol=unset#unset
 /cv.sh -text
 /decl.txt -text
 dev/apertium-cv-tr.cv-tr-full.dix -text
@@ -48,7 +48,7 @@ texts/cv-2.txt -text svneol=unset#application/octet-stream
 texts/cv-3.txt -text
 texts/cv-4.txt -text svneol=unset#application/octet-stream
 texts/tr.txt -text
-/tr-cv.prob -text svneol=unset#unset
+/tur-chv.prob -text svneol=unset#unset
 /twolc_debug.py -text
 /verb-wiki.txt -text
 /wiki-tests.sh -text
