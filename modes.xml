@@ -2,467 +2,467 @@
 <modes>
   <!-- cv → tr --> 
 
-  <mode name="cv-tr" install="yes">
+  <mode name="chv-tur" install="yes">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="cv-tr.lrx.bin"/>
+        <file name="chv-tur.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.cv-tr.t1x"/>
-        <file name="cv-tr.t1x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t1x"/>
+        <file name="chv-tur.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.cv-tr.t2x"/>
-        <file name="cv-tr.t2x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t2x"/>
+        <file name="chv-tur.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.cv-tr.t3x"/>
-        <file name="cv-tr.t3x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t3x"/>
+        <file name="chv-tur.t3x.bin"/>
       </program>
       <program name="hfst-proc $1">
-        <file name="cv-tr.autogen.hfst"/>
+        <file name="chv-tur.autogen.hfst"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cv-tr-debug" install="no">
+  <mode name="chv-tur-debug" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="cv-tr.lrx.bin"/>
+        <file name="chv-tur.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.cv-tr.t1x"/>
-        <file name="cv-tr.t1x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t1x"/>
+        <file name="chv-tur.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.cv-tr.t2x"/>
-        <file name="cv-tr.t2x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t2x"/>
+        <file name="chv-tur.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.cv-tr.t3x"/>
-        <file name="cv-tr.t3x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t3x"/>
+        <file name="chv-tur.t3x.bin"/>
       </program>
       <program name="hfst-proc -d">
-        <file name="cv-tr.autogen.hfst"/>
+        <file name="chv-tur.autogen.hfst"/>
       </program>
     </pipeline>
   </mode>
  
   
-  <mode name="cv-tr-morph" install="no">
+  <mode name="chv-tur-morph" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cv-tr-disam" install="no">
+  <mode name="chv-tur-disam" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="cv-tr-tagger" install="no">
+  <mode name="chv-tur-tagger" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cv-tr-biltrans" install="no">
+  <mode name="chv-tur-biltrans" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cv-tr-lex" install="no">
+  <mode name="chv-tur-lex" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc -t">
-        <file name="cv-tr.lrx.bin"/>
+        <file name="chv-tur.lrx.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="cv-tr-transfer" install="no">
+  <mode name="chv-tur-transfer" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="cv-tr.lrx.bin"/>
+        <file name="chv-tur.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.cv-tr.t1x"/>
-        <file name="cv-tr.t1x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t1x"/>
+        <file name="chv-tur.t1x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cv-tr-interchunk" install="no">
+  <mode name="chv-tur-interchunk" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="cv-tr.lrx.bin"/>
+        <file name="chv-tur.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.cv-tr.t1x"/>
-        <file name="cv-tr.t1x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t1x"/>
+        <file name="chv-tur.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.cv-tr.t2x"/>
-        <file name="cv-tr.t2x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t2x"/>
+        <file name="chv-tur.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="cv-tr-postchunk" install="no">
+  <mode name="chv-tur-postchunk" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="cv-tr.automorf.hfst"/>
+        <file name="chv-tur.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="cv-tr.rlx.bin"/>
+        <file name="chv-tur.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="cv-tr.autobil.bin"/>
+        <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="cv-tr.lrx.bin"/>
+        <file name="chv-tur.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.cv-tr.t1x"/>
-        <file name="cv-tr.t1x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t1x"/>
+        <file name="chv-tur.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.cv-tr.t2x"/>
-        <file name="cv-tr.t2x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t2x"/>
+        <file name="chv-tur.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.cv-tr.t3x"/>
-        <file name="cv-tr.t3x.bin"/>
+        <file name="apertium-chv-tur.chv-tur.t3x"/>
+        <file name="chv-tur.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
   <!-- tr → cv -->
 
-  <mode name="tr-cv" install="yes">
+  <mode name="tur-chv" install="yes">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.tr-cv.t1x"/>
-        <file name="tr-cv.t1x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t1x"/>
+        <file name="tur-chv.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.tr-cv.t2x"/>
-        <file name="tr-cv.t2x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t2x"/>
+        <file name="tur-chv.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.tr-cv.t3x"/>
-        <file name="tr-cv.t3x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t3x"/>
+        <file name="tur-chv.t3x.bin"/>
       </program>
       <program name="apertium-transfer -n">
-        <file name="apertium-cv-tr.tr-cv.t4x"/>
-        <file name="tr-cv.t4x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t4x"/>
+        <file name="tur-chv.t4x.bin"/>
       </program>
       <program name="hfst-proc $1">
-        <file name="tr-cv.autogen.hfst"/>
+        <file name="tur-chv.autogen.hfst"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-debug" install="no">
+  <mode name="tur-chv-debug" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.tr-cv.t1x"/>
-        <file name="tr-cv.t1x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t1x"/>
+        <file name="tur-chv.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.tr-cv.t2x"/>
-        <file name="tr-cv.t2x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t2x"/>
+        <file name="tur-chv.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.tr-cv.t3x"/>
-        <file name="tr-cv.t3x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t3x"/>
+        <file name="tur-chv.t3x.bin"/>
       </program>
       <program name="apertium-transfer -n">
-        <file name="apertium-cv-tr.tr-cv.t4x"/>
-        <file name="tr-cv.t4x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t4x"/>
+        <file name="tur-chv.t4x.bin"/>
       </program>
       <program name="hfst-proc -d">
-        <file name="tr-cv.autogen.hfst"/>
+        <file name="tur-chv.autogen.hfst"/>
       </program>
     </pipeline>
   </mode>
   
-  <mode name="tr-cv-morph" install="no">
+  <mode name="tur-chv-morph" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-disam" install="no">
+  <mode name="tur-chv-disam" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
     </pipeline>
   </mode>
 
 
-  <mode name="tr-cv-tagger" install="no">
+  <mode name="tur-chv-tagger" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-biltrans" install="no">
+  <mode name="tur-chv-biltrans" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
-      </program>
-      <program name="apertium-pretransfer"/>
-      <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
-      </program>
-    </pipeline>
-  </mode>
-
-  <mode name="tr-cv-lex" install="no">
-    <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
-      </program>
-      <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="tur-chv-lex" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-chv.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w -n -1">
+        <file name="tur-chv.rlx.bin"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc -t">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-transfer" install="no">
+  <mode name="tr-chv-turansfer" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.tr-cv.t1x"/>
-        <file name="tr-cv.t1x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t1x"/>
+        <file name="tur-chv.t1x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-interchunk" install="no">
+  <mode name="tur-chv-interchunk" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.tr-cv.t1x"/>
-        <file name="tr-cv.t1x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t1x"/>
+        <file name="tur-chv.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.tr-cv.t2x"/>
-        <file name="tr-cv.t2x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t2x"/>
+        <file name="tur-chv.t2x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-postchunk" install="no">
+  <mode name="tur-chv-postchunk" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.tr-cv.t1x"/>
-        <file name="tr-cv.t1x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t1x"/>
+        <file name="tur-chv.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.tr-cv.t2x"/>
-        <file name="tr-cv.t2x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t2x"/>
+        <file name="tur-chv.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.tr-cv.t3x"/>
-        <file name="tr-cv.t3x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t3x"/>
+        <file name="tur-chv.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
 
-  <mode name="tr-cv-pregenerador" install="no">
+  <mode name="tur-chv-pregenerador" install="no">
     <pipeline>
       <program name="hfst-proc -w">
-        <file name="tr-cv.automorf.hfst"/>
+        <file name="tur-chv.automorf.hfst"/>
       </program>
       <program name="cg-proc -w -n -1">
-        <file name="tr-cv.rlx.bin"/>
+        <file name="tur-chv.rlx.bin"/>
       </program>
       <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
-        <file name="tr-cv.autobil.bin"/>
+        <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tr-cv.lrx.bin"/>
+        <file name="tur-chv.lrx.bin"/>
       </program>
       <program name="apertium-transfer -b">
-        <file name="apertium-cv-tr.tr-cv.t1x"/>
-        <file name="tr-cv.t1x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t1x"/>
+        <file name="tur-chv.t1x.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-cv-tr.tr-cv.t2x"/>
-        <file name="tr-cv.t2x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t2x"/>
+        <file name="tur-chv.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-cv-tr.tr-cv.t3x"/>
-        <file name="tr-cv.t3x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t3x"/>
+        <file name="tur-chv.t3x.bin"/>
       </program>
       <program name="apertium-transfer -n">
-        <file name="apertium-cv-tr.tr-cv.t4x"/>
-        <file name="tr-cv.t4x.bin"/>
+        <file name="apertium-chv-tur.tur-chv.t4x"/>
+        <file name="tur-chv.t4x.bin"/>
       </program>
     </pipeline>
   </mode>
