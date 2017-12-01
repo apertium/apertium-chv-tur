@@ -10056,7 +10056,7 @@
 <e>       <p><l>айлат<s n="n"/></l> <r>sızlan<s n="n"/></r></p></e>
 <e>       <p><l>айлат<s n="n"/></l> <r>i̇ç<b/>çek<s n="n"/></r></p></e>
 <e>       <p><l>айлат<s n="n"/></l> <r>ofla<s n="n"/></r></p></e>
-<e>       <p><l>айлат<s n="n"/></l> <r>	<s n="n"/></r></p></e>
+<!--<e>       <p><l>айлат<s n="n"/></l> <r>	<s n="n"/></r></p></e>-->
 <e>       <p><l>айлӑ<s n="adj"/></l> <r>dipli<s n="adj"/></r></p></e>
 <e>       <p><l>айлӑ<s n="adj"/></l> <r>dibi<b/>olan<s n="adj"/></r></p></e>
 <e>       <p><l>айлӑ<s n="adj"/></l> <r>altı<b/>olan<s n="adj"/></r></p></e>
@@ -14248,10 +14248,10 @@
 <e>       <p><l>йӳнес<b/>ӗ<b/>р<s n="unk"/></l> <r>kabiliyetsizlik<s n="unk"/></r></p></e>
 <e>       <p><l>йӳнеҫ<s n="v"/><s n="iv"/></l> <r>ne<b/>varsa<b/>onunla<b/>geçin<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>йӳнеҫ<s n="v"/><s n="iv"/></l> <r>fazla<b/>harcama<b/>yapma<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>йӳнеҫ<s n="v"/><s n="iv"/></l> <r>	<s n="v"/><s n="iv"/></r></p></e>
+<!--<e>       <p><l>йӳнеҫ<s n="v"/><s n="iv"/></l> <r>	<s n="v"/><s n="iv"/></r></p></e>-->
 <e>       <p><l>йӳнеҫтер<s n="v"/><s n="iv"/></l> <r>ne<b/>varsa<b/>onunla<b/>geçin<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>йӳнеҫтер<s n="v"/><s n="iv"/></l> <r>fazla<b/>harcama<b/>yapma<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>йӳнеҫтер<s n="v"/><s n="iv"/></l> <r>	<s n="v"/><s n="iv"/></r></p></e>
+<!--<e>       <p><l>йӳнеҫтер<s n="v"/><s n="iv"/></l> <r>	<s n="v"/><s n="iv"/></r></p></e>-->
 <e>       <p><l>йӳнет<s n="n"/></l> <r>ucuzlat<s n="n"/></r></p></e>
 <e>       <p><l>йӳнет<s n="n"/></l> <r>fiyatını<b/>indirmek<b/>manifatura<s n="n"/></r></p></e>
 <e>       <p><l>йӳнл<b/>ӗ<s n="adj"/></l> <r>aklı<b/>başında<s n="adj"/></r></p></e>
@@ -14315,7 +14315,7 @@
 <e>       <p><l>йӳҫӗхни<s n="unk"/></l> <r>oksitleşme<s n="unk"/></r></p></e>
 <e>       <p><l>йӳҫеш<s n="unk"/></l> <r>ekşilik<s n="unk"/></r></p></e>
 <e>       <p><l>йӳҫеш<s n="unk"/></l> <r>acılık<s n="unk"/></r></p></e>
-<e>       <p><l>йӳҫеш<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>
+<!--<e>       <p><l>йӳҫеш<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>-->
 <e>       <p><l>йӳҫленкӗ<s n="unk"/></l> <r>kokmuş<s n="unk"/></r></p></e>
 <e>       <p><l>йӳҫлӗ-тутлӑ<s n="adj"/></l> <r>mayhoş<s n="adj"/></r></p></e>
 <e>       <p><l>йӳҫлӗх<s n="n"/></l> <r>bataklık<b/>yer<s n="n"/></r></p></e>
@@ -14346,7 +14346,7 @@
 <e>       <p><l>йывӑҫ<s n="unk"/></l> <r>ağaçtan<b/>yapılmış<s n="unk"/></r></p></e>
 <e>       <p><l>йывӑҫ-курӑк<s n="unk"/></l> <r>bitki<b/>dünyası<s n="unk"/></r></p></e>
 <e>       <p><l>йынӑш<s n="n"/></l> <r>sızla<s n="n"/></r></p></e>
-<e>       <p><l>йынӑш<s n="n"/></l> <r>	<s n="n"/></r></p></e>
+<!--<e>       <p><l>йынӑш<s n="n"/></l> <r>	<s n="n"/></r></p></e>-->
 <e>       <p><l>йынша<s n="unk"/></l> <r>durmadan<b/>ağlayan<b/>sızlayan<b/>çocuk<s n="unk"/></r></p></e>
 <e>       <p><l>йысна<s n="n"/></l> <r>güvey;<b/>enişte<s n="n"/></r></p></e>
 <e>       <p><l>йыт<b/>пырши<s n="unk"/></l> <r>çoban<b/>döşeği<s n="unk"/></r></p></e>
@@ -15180,7 +15180,7 @@
 <e>       <p><l>кӑлтӑксӑр<s n="unk"/></l> <r>eksiksiz<s n="unk"/></r></p></e>
 <e>       <p><l>кӑлтӑксӑр<s n="unk"/></l> <r>pürüzsüz<s n="unk"/></r></p></e>
 <e>       <p><l>кӑлтӑксӑр<s n="unk"/></l> <r>kusursuz<s n="unk"/></r></p></e>
-<e>       <p><l>кӑлтӑксӑр<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>
+<!--<e>       <p><l>кӑлтӑксӑр<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>-->
 <e>       <p><l>кӑмӑлла<s n="v"/><s n="iv"/></l> <r>dostça<b/>davran<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>кӑмӑлла<s n="v"/><s n="iv"/></l> <r>sempatisi<b/>ol<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>кӑмӑлла<s n="v"/><s n="iv"/></l> <r>saygı<b/>duy<s n="v"/><s n="iv"/></r></p></e>
@@ -16644,10 +16644,10 @@
 <e>       <p><l>лакӑм<s n="n"/></l> <r>için<b/>hazırlanmış<b/>kapaklı<b/>tahta<b/>kap<s n="n"/></r></p></e>
 <e>       <p><l>лакӑмлан<s n="unk"/></l> <r>çukurlaş<s n="unk"/></r></p></e>
 <e>       <p><l>лакӑмлӑ<s n="adj"/></l> <r>çukurlu<s n="adj"/></r></p></e>
-<e>       <p><l>лакӑмлӑ<s n="adj"/></l> <r>	<s n="adj"/></r></p></e>
+<!--<e>       <p><l>лакӑмлӑ<s n="adj"/></l> <r>	<s n="adj"/></r></p></e>-->
 <e>       <p><l>лакӑртат<s n="v"/><s n="iv"/></l> <r>fıkırdamak<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>лакӑртат<s n="v"/><s n="iv"/></l> <r>gevezelik<b/>yapmak<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>лакӑртат<s n="v"/><s n="iv"/></l> <r>	<s n="v"/><s n="iv"/></r></p></e>
+<!--<e>       <p><l>лакӑртат<s n="v"/><s n="iv"/></l> <r>	<s n="v"/><s n="iv"/></r></p></e>-->
 <e>       <p><l>лакӑрчӑк<s n="n"/></l> <r>kir<s n="n"/></r></p></e>
 <e>       <p><l>лакӑрчӑк<s n="n"/></l> <r>pis<s n="n"/></r></p></e>
 <e>       <p><l>лакӑштат<s n="v"/><s n="tv"/></l> <r>çarpmak<s n="v"/><s n="tv"/></r></p></e>
@@ -17249,7 +17249,7 @@
 <e>       <p><l>маймакаллӑ<s n="adj"/></l> <r>akıntılı<s n="adj"/></r></p></e>
 <e>       <p><l>маймакаллӑ<s n="adj"/></l> <r>kaygan<s n="adj"/></r></p></e>
 <e>       <p><l>майна<s n="n"/></l> <r>uskumru<s n="n"/></r></p></e>
-<e>       <p><l>майор<s n="n"/></l> <r>	<s n="n"/></r></p></e>
+<!--<e>       <p><l>майор<s n="n"/></l> <r>	<s n="n"/></r></p></e>-->
 <e>       <p><l>майра<s n="n"/></l> <r>rus<b/>kadın<s n="n"/></r></p></e>
 <e>       <p><l>майралла<s n="unk"/></l> <r>rus<b/>kadın<b/>gibi<s n="unk"/></r></p></e>
 <e>       <p><l>майсӑр<s n="adv"/></l> <r>düzensiz<s n="adv"/></r></p></e>
@@ -19523,9 +19523,9 @@
 <e>       <p><l>пӗтӳ<s n="n"/></l> <r>tılsım<s n="n"/></r></p></e>
 <e>       <p><l>пӗтӳ<s n="n"/></l> <r>muska<s n="n"/></r></p></e>
 <e>       <p><l>пӗтӳ<s n="n"/></l> <r>nazarlık<s n="n"/></r></p></e>
-<e>       <p><l>	<s n="adj"/></l> <r>kısa<b/>boylu<s n="adj"/></r></p></e>
-<e>       <p><l>	<s n="adj"/></l> <r>bodur<s n="adj"/></r></p></e>
-<e>       <p><l>	<s n="adj"/></l> <r>önemsiz<s n="adj"/></r></p></e>
+<!--<e>       <p><l>	<s n="adj"/></l> <r>kısa<b/>boylu<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>	<s n="adj"/></l> <r>bodur<s n="adj"/></r></p></e>-->
+<!--<e>       <p><l>	<s n="adj"/></l> <r>önemsiz<s n="adj"/></r></p></e>-->
 <e>       <p><l>пӗчӗккӗн<s n="adv"/></l> <r>ağır<b/>ağır<s n="adv"/></r></p></e>
 <e>       <p><l>пӗчӗккӗн<s n="adv"/></l> <r>yavaş<b/>yavaş<s n="adv"/></r></p></e>
 <e>       <p><l>пӗчӗккӗн<s n="adv"/></l> <r>gizlice<s n="adv"/></r></p></e>
@@ -20443,9 +20443,9 @@
 <e>       <p><l>пӳштер<s n="n"/></l> <r>motifli<b/>parça<s n="n"/></r></p></e>
 <e>       <p><l>пыйтӑ<s n="n"/></l> <r>yaprak<b/>biti<s n="n"/></r></p></e>
 <e>       <p><l>пыйтӑлан<s n="unk"/></l> <r>bitlen<s n="unk"/></r></p></e>
-<e>       <p><l>пыйтӑлан<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>
+<!--<e>       <p><l>пыйтӑлан<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>-->
 <e>       <p><l>пыйтлан<s n="unk"/></l> <r>bitlen<s n="unk"/></r></p></e>
-<e>       <p><l>пыйтлан<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>
+<!--<e>       <p><l>пыйтлан<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>-->
 <e>       <p><l>пыйтӑллӑ<s n="adj"/></l> <r>bitli<s n="adj"/></r></p></e>
 <e>       <p><l>пыйтӑллӑ<s n="adj"/></l> <r>bitlenmiş<s n="adj"/></r></p></e>
 <e>       <p><l>пылак<s n="unk"/></l> <r>ballı<s n="unk"/></r></p></e>
@@ -20752,7 +20752,7 @@
 <e>       <p><l>тӳрри<s n="adj"/></l> <r>sevimli<s n="adj"/></r></p></e>
 <e>       <p><l>тӳрри<s n="adj"/></l> <r>beğenilen<s n="adj"/></r></p></e>
 <e>       <p><l>сазан<s n="unk"/></l> <r>sazan<b/>balığı<s n="unk"/></r></p></e>
-<e>       <p><l>сазан<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>
+<!--<e>       <p><l>сазан<s n="unk"/></l> <r>	<s n="unk"/></r></p></e>-->
 <e>       <p><l>сай<s n="n"/></l> <r>kuru<b/>ot<b/>taşırken<b/>arabanın<b/>üzerine<b/>örtülen<b/>kaplama<s n="n"/></r></p></e>
 <e>       <p><l>сай<s n="n"/></l> <r>çıkık<b/>bir<b/>şeyi<b/>bağlamada<b/>kullanılan<s n="n"/></r></p></e>
 <e>       <p><l>сайка<s n="unk"/></l> <r>morina<b/>balığı<s n="unk"/></r></p></e>
@@ -25987,7 +25987,7 @@
 <e>       <p><l>тумлат<s n="unk"/></l> <r>damlat<s n="unk"/></r></p></e>
 <e>       <p><l>тумлаш<b/>пӑр<b/>тумлашӗ<s n="unk"/></l> <r>saçak<b/>buzu<s n="unk"/></r></p></e>
 <e>       <p><l>тумра<s n="n"/></l> <r>balalayka<s n="n"/></r></p></e>
-<e>       <p><l>тумха<s n="n"/></l> <r>	leke<s n="n"/></r></p></e>
+<e>       <p><l>тумха<s n="n"/></l> <r>leke<s n="n"/></r></p></e>
 <e>       <p><l>тумхала<s n="v"/><s n="tv"/></l> <r>mühürlemek<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>тумхала<s n="v"/><s n="tv"/></l> <r>işaretlemek<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>тумхала<s n="v"/><s n="tv"/></l> <r>lekelemek<s n="v"/><s n="tv"/></r></p></e>
@@ -27189,7 +27189,7 @@
 <e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>dökülmek<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>zayıflamak<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>bozulmak<s n="v"/><s n="tv"/></r></p></e>
-<e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>	<b/>-e<b/>malolmak<s n="v"/><s n="tv"/></r></p></e>
+<!--<e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>	<b/>-e<b/>malolmak<s n="v"/><s n="tv"/></r></p></e>-->
 <e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>tam<b/>gelmek<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>rastlamak<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ӳк<s n="v"/><s n="tv"/></l> <r>gerekmek<s n="v"/><s n="tv"/></r></p></e>
@@ -28161,7 +28161,7 @@
 <e>       <p><l>хӑтсӑр<s n="adj"/></l> <r>aksi<s n="adj"/></r></p></e>
 <e>       <p><l>хӑтсӑр<s n="adj"/></l> <r>kirlice<s n="adj"/></r></p></e>
 <e>       <p><l>хӑтсӑр<s n="adj"/></l> <r>haince<s n="adj"/></r></p></e>
-<e>       <p><l>хӑтсӑр<s n="adj"/></l> <r>	pek<s n="adj"/></r></p></e>
+<e>       <p><l>хӑтсӑр<s n="adj"/></l> <r>pek<s n="adj"/></r></p></e>
 <e>       <p><l>хӑтсӑр<s n="adj"/></l> <r>oldukça<s n="adj"/></r></p></e>
 <e>       <p><l>хӑть<s n="n"/></l> <r>ise<b/>de<s n="n"/></r></p></e>
 <e>       <p><l>хӑть<s n="n"/></l> <r>-sa<b/>bile<s n="n"/></r></p></e>
@@ -28874,7 +28874,7 @@
 <e>       <p><l>хуҫлат<s n="v"/><s n="tv"/></l> <r>kıvırmak<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>хуҫмаллӑ<s n="adj"/></l> <r>katlanır<s n="adj"/></r></p></e>
 <e>       <p><l>хуҫмаллӑ<s n="adj"/></l> <r>açılır<b/>kapanır<s n="adj"/></r></p></e>
-<e>       <p><l>хут<s n="v"/><s n="tv"/></l> <r>	yan<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>хут<s n="v"/><s n="tv"/></l> <r>yan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>хут<s n="v"/><s n="tv"/></l> <r>eritmek<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>хут<s n="v"/><s n="tv"/></l> <r>batırmak<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>хута<b/>кун<b/>хута<s n="n"/></l> <r>bütün<b/>gün<s n="n"/></r></p></e>
