@@ -4,8 +4,8 @@
 
   <mode name="chv-tur" install="yes">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -29,16 +29,16 @@
         <file name="apertium-chv-tur.chv-tur.t3x"/>
         <file name="chv-tur.t3x.bin"/>
       </program>
-      <program name="hfst-proc $1">
-        <file name="chv-tur.autogen.hfst"/>
+      <program name="lt-proc $1">
+        <file name="chv-tur.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
   <mode name="chv-tur-debug" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -63,7 +63,7 @@
         <file name="chv-tur.t3x.bin"/>
       </program>
       <program name="hfst-proc -d">
-        <file name="chv-tur.autogen.hfst"/>
+        <file name="chv-tur.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -71,16 +71,16 @@
   
   <mode name="chv-tur-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
   <mode name="chv-tur-disam" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
@@ -92,8 +92,8 @@
 
   <mode name="chv-tur-tagger" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -103,8 +103,8 @@
 
   <mode name="chv-tur-biltrans" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -118,8 +118,8 @@
 
   <mode name="chv-tur-lex" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -137,8 +137,8 @@
 
   <mode name="chv-tur-transfer" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -159,8 +159,8 @@
 
   <mode name="chv-tur-interchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -185,8 +185,8 @@
 
   <mode name="chv-tur-postchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="chv-tur.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="chv-tur.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="chv-tur.rlx.bin"/>
@@ -217,8 +217,8 @@
 
   <mode name="tur-chv" install="yes">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -246,16 +246,16 @@
         <file name="apertium-chv-tur.tur-chv.t4x"/>
         <file name="tur-chv.t4x.bin"/>
       </program>
-      <program name="hfst-proc $1">
-        <file name="tur-chv.autogen.hfst"/>
+      <program name="lt-proc $1">
+        <file name="tur-chv.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
   <mode name="tur-chv-debug" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -284,23 +284,23 @@
         <file name="tur-chv.t4x.bin"/>
       </program>
       <program name="hfst-proc -d">
-        <file name="tur-chv.autogen.hfst"/>
+        <file name="tur-chv.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
   
   <mode name="tur-chv-morph" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
     </pipeline>
   </mode>
 
   <mode name="tur-chv-disam" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
       <program name="vislcg3 --trace --grammar">
@@ -312,8 +312,8 @@
 
   <mode name="tur-chv-tagger" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -324,8 +324,8 @@
 
   <mode name="tur-chv-biltrans" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -339,8 +339,8 @@
 
   <mode name="tur-chv-lex" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -357,8 +357,8 @@
 
   <mode name="tr-chv-turansfer" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -379,8 +379,8 @@
 
   <mode name="tur-chv-interchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -405,8 +405,8 @@
 
   <mode name="tur-chv-postchunk" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
@@ -435,8 +435,8 @@
 
   <mode name="tur-chv-pregenerador" install="no">
     <pipeline>
-      <program name="hfst-proc -w">
-        <file name="tur-chv.automorf.hfst"/>
+      <program name="lt-proc -w">
+        <file name="tur-chv.automorf.bin"/>
       </program>
       <program name="cg-proc -w -n -1">
         <file name="tur-chv.rlx.bin"/>
