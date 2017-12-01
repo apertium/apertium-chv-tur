@@ -11,17 +11,12 @@
 /apertium-chv-tur.chv-tur.t1x -text
 /apertium-chv-tur.chv-tur.t2x -text
 /apertium-chv-tur.chv-tur.t3x -text
-/apertium-chv-tur.chv.acx -text
-/apertium-chv-tur.chv.lexc -text
-/apertium-chv-tur.chv.twol -text
 /apertium-chv-tur.tur-chv.lrx -text
 /apertium-chv-tur.tur-chv.rlx -text
 /apertium-chv-tur.tur-chv.t1x -text
 /apertium-chv-tur.tur-chv.t2x -text
 /apertium-chv-tur.tur-chv.t3x -text
 /apertium-chv-tur.tur-chv.t4x -text
-/apertium-chv-tur.tur.lexc -text
-/apertium-chv-tur.tur.twol -text
 /autogen.sh -text
 /chv-tur.prob -text svneol=unset#unset
 /configure.ac -text
