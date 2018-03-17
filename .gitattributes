@@ -51,3 +51,8 @@ texts/tr.txt -text
 /wiki_verb.tmpl -text
 /write_wiki_noun.sh -text
 /write_wiki_verb.sh -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
