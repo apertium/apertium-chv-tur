@@ -1,0 +1,570 @@
+[-AJP-9_StR83#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><dub><cond><p1><sg>$}$.
+[/-AJP-9_StR83]
+[-D_jIgDmhQaJ#0] ^unknown<unknown>{^*Almakta$}$ ^unknown<unknown>{^*değilim$}$.
+[/-D_jIgDmhQaJ]
+[-X9FLzjaFpn2#0] ^unknown<unknown>{^*Kalemsiz$}$ ^unknown<unknown>{^*yazıyorum$}$.
+[/-X9FLzjaFpn2]
+[-d8RWo-OY9Iy#0] ^unknown<unknown>{^*Ordaki$}$.
+[/-d8RWo-OY9Iy]
+[00UzAaZk62vd#0] ^unknown<unknown>{^*Rusya$}$ ^unknown<unknown>{^*Sovyet$}$ ^unknown<unknown>{^*Federatif$}$ ^unknown<unknown>{^*Sosyalist$}$ ^unknown<unknown>{^*Cumhuriyeti$}$.
+[/00UzAaZk62vd]
+[03RVcT9bW3XE#0] ^unknown<unknown>{^*Gelecek$}$ ^unknown<unknown>{^*miyim$}$?
+[/03RVcT9bW3XE]
+[03bxNSIc6L3s#0] ^unknown<unknown>{^*Gelmiyecek$}$ ^unknown<unknown>{^*miymişim$}$?
+[/03bxNSIc6L3s]
+[06-smjGk4Qk-#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/06-smjGk4Qk-]
+[0QuUK0B54Jni#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*güzel$}$ ^default<default>{^тата<cnjcoo>$}$ ^unknown<unknown>{^*uzun$}$ ^unknown<unknown>{^*boylu$}$ ^unknown<unknown>{^*çocukları$}$.
+[/0QuUK0B54Jni]
+[0ciDri7ZJv-i#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*güzel$}$ ^unknown<unknown>{^*çocukları$}$.
+[/0ciDri7ZJv-i]
+[0cvs9lp070IC#0] ^unknown<unknown>{^*Almıştım$}$.
+[/0cvs9lp070IC]
+[0dMSit8BftfV#0] ^unknown<unknown>{^*Yüzde$}$ ^unknown<unknown>{^*yüz$}$.
+[/0dMSit8BftfV]
+[0fWMBvuALz7e#0] ^unknown<unknown>{^*Geldim$}$.
+[/0fWMBvuALz7e]
+[0suVHCw3JyLQ#0] ^unknown<unknown>{^*Cevdet$}$ ^unknown<unknown>{^*birkaç$}$ ^unknown<unknown>{^*dolar$}$ ^unknown<unknown>{^*için$}$ ^unknown<unknown>{^*12$}$ ^unknown<unknown>{^*saat$}$ ^unknown<unknown>{^*çalıştı$}$.
+[/0suVHCw3JyLQ]
+[0vZmJIn_FvEs#0] ^unknown<unknown>{^*Biliyorsunuzdur$}$.
+[/0vZmJIn_FvEs]
+[0y2MZfS1ONy0#0] ^unknown<unknown>{^*bugün$}$ ^unknown<unknown>{^*değil$}$, ^unknown<unknown>{^*dün$}$ ^unknown<unknown>{^*geldi$}$.
+[/0y2MZfS1ONy0]
+[14snRGH9U0kN#0] ^unknown<unknown>{^*Yarın$}$ ^unknown<unknown>{^*geleyim$}$.
+[/14snRGH9U0kN]
+[17ORnsl_DcY9#0] ^unknown<unknown>{^*En$}$ ^unknown<unknown>{^*keskin$}$.
+[/17ORnsl_DcY9]
+[1R4TUZUgMqyO#0] ^unknown<unknown>{^*Gelir$}$ ^unknown<unknown>{^*miyim$}$?
+[/1R4TUZUgMqyO]
+[1WYyW4a83Fza#0] ^unknown<unknown>{^*Türktüm$}$.
+[/1WYyW4a83Fza]
+[1WcpwWMvxXsZ#0] ^unknown<unknown>{^*Ermenistan$}$ ^unknown<unknown>{^*Sovyet$}$ ^unknown<unknown>{^*Sosyalist$}$ ^unknown<unknown>{^*Cumhuriyeti$}$.
+[/1WcpwWMvxXsZ]
+[1sGIrjyGu_lp#0] ^pron<SN>{^Эсӗ<prn><pers><p2><sg><nom>$}$ ^unknown<unknown>{^*hastanedeyken$}$ ^pron<SN>{^эпӗ<prn><pers><p1><sg><nom>$}$ ^unknown<unknown>{^*Moskovaya$}$ ^unknown<unknown>{^*gidip$}$ ^unknown<unknown>{^*geldim$}$.
+[/1sGIrjyGu_lp]
+[1vidvD44kJuA#0] ^unknown<unknown>{^*Içinde$}$
+[/1vidvD44kJuA]
+[25KjPw1TVTJ4#0] ^unknown<unknown>{^*Geleceksem$}$.
+[/25KjPw1TVTJ4]
+[2VWfVivtwQgH#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$ ^unknown<unknown>{^*Moskovadan$}$ ^unknown<unknown>{^*geldikten$}$ ^unknown<unknown>{^*beri$}$ ^unknown<unknown>{^*bir$}$ ^unknown<unknown>{^*ay$}$ ^unknown<unknown>{^*geçti$}$.
+[/2VWfVivtwQgH]
+[3AIZDK-Bjrwv#0] ^pron<SN>{^Ку<prn><dem><nom>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*günlerde$}$.
+[/3AIZDK-Bjrwv]
+[3AyypWQ8ntF0#0] ^unknown<unknown>{^*Türktüyse$}$.
+[/3AyypWQ8ntF0]
+[3GBLdY1Pa7IT#0] ^unknown<unknown>{^*Türk$}$ ^unknown<unknown>{^*imişse$}$.
+[/3GBLdY1Pa7IT]
+[3RpeE6GtJ1tx#0] ^unknown<unknown>{^*Gelmemiş$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/3RpeE6GtJ1tx]
+[3X9ZmuOMX3b2#0] ^unknown<unknown>{^*Bir$}$ ^default<default>{^питӗ<adv>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*adam$}$.
+[/3X9ZmuOMX3b2]
+[3jGJrKlxlZ1g#0] ^unknown<unknown>{^*Geleyim$}$ ^unknown<unknown>{^*mi$}$?
+[/3jGJrKlxlZ1g]
+[3ngmm-HtkJSD#0] ^unknown<unknown>{^*Türkse$}$.
+[/3ngmm-HtkJSD]
+[3tULFkxxL4ii#0] ^unknown<unknown>{^*Gelmemiş$}$ ^unknown<unknown>{^*miydik$}$?
+[/3tULFkxxL4ii]
+[44stZXVDVxsi#0] ^unknown<unknown>{^*Türk$}$ ^unknown<unknown>{^*ümüş$}$.
+[/44stZXVDVxsi]
+[47qrw930vo4y#0] ^unknown<unknown>{^*Elma$}$ ^unknown<unknown>{^*kadar$}$ ^unknown<unknown>{^*bir$}$ ^unknown<unknown>{^*şey$}$.
+[/47qrw930vo4y]
+[4E-i7eVzBVR9#0] ^unknown<unknown>{^*Gelecek$}$.
+[/4E-i7eVzBVR9]
+[4TNKqVNztG3U#0] ^n<SN><nom>{^Ир<n><nom>$}$ ^unknown<unknown>{^*olunca$}$ ^unknown<unknown>{^*yola$}$ ^unknown<unknown>{^*çıktık$}$.
+[/4TNKqVNztG3U]
+[4aldk_-ZMNyS#0] ^unknown<unknown>{^*Gelmeliymişim$}$.
+[/4aldk_-ZMNyS]
+[4goBk1Ju4Mx8#0] ^unknown<unknown>{^*Gelse$}$ ^unknown<unknown>{^*miymişim$}$.
+[/4goBk1Ju4Mx8]
+[5DDJL5sUk7x4#0] ^unknown<unknown>{^*Başka$}$ ^unknown<unknown>{^*memleketlerde$}$ ^unknown<unknown>{^*kazara$}$ ^unknown<unknown>{^*ölürler$}$; ^pron<SN>{^эпир<prn><pers><p1><pl><nom>$}$ ^unknown<unknown>{^*kazara$}$ ^unknown<unknown>{^*yaşıyoruz$}$.
+[/5DDJL5sUk7x4]
+[5JRn0MJOd2TY#0] ^unknown<unknown>{^*Elli$}$ ^unknown<unknown>{^*baş$}$ ^unknown<unknown>{^*sığır$}$.
+[/5JRn0MJOd2TY]
+[5_keOe7QgrtC#0] ^unknown<unknown>{^*Gelecektimse$}$.
+[/5_keOe7QgrtC]
+[5bDpSWXcqC_6#0] ^unknown<unknown>{^*Alıyorsam$}$.
+[/5bDpSWXcqC_6]
+[5bp_cEs7fpYe#0] ^unknown<unknown>{^*Yan$}$
+[/5bp_cEs7fpYe]
+[5gs4eL9h0AGg#0] ^unknown<unknown>{^*Geldi$}$ ^unknown<unknown>{^*idimse$}$.
+[/5gs4eL9h0AGg]
+[5iJcu3kHE-NI#0] ^unknown<unknown>{^*Lena$}$ ^unknown<unknown>{^*kadar$}$ ^unknown<unknown>{^*yap$}$.
+[/5iJcu3kHE-NI]
+[63HUxtwQRhnp#0] ^unknown<unknown>{^*Olur$}$.
+[/63HUxtwQRhnp]
+[6eCQ27VBYXe7#0] ^unknown<unknown>{^*Almıyordumsa$}$.
+[/6eCQ27VBYXe7]
+[6lNt7jGL4IKL#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*çocukları$}$.
+[/6lNt7jGL4IKL]
+[7UgVp6YKraWk#0] ^unknown<unknown>{^*Türkmüş$}$.
+[/7UgVp6YKraWk]
+[7_iw0UBq3ao9#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*çocukları$}$.
+[/7_iw0UBq3ao9]
+[8TPK8d3KxLwC#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$.
+[/8TPK8d3KxLwC]
+[8UJxDJK5P4cu#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><dat>$}$ ^unknown<unknown>{^*bir$}$ ^n<SN><nom>{^ҫыру<n><nom>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*yazmışım$}$.
+[/8UJxDJK5P4cu]
+[8iMWugmOJgn-#0] ^unknown<unknown>{^*Geldi$}$ ^unknown<unknown>{^*idiysem$}$.
+[/8iMWugmOJgn-]
+[9CoLKyL_84D6#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^unknown<unknown>{^*güzel$}$ ^unknown<unknown>{^*çocukları$}$.
+[/9CoLKyL_84D6]
+[9NKlovmLYsYn#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><cond><p1><sg>$}$.
+[/9NKlovmLYsYn]
+[A1FZzLCHz9zc#0] ^unknown<unknown>{^*Gelmemiş$}$ ^default<default>{^ӗ<cop><dub><aor><p3><pl>$}$ ^unknown<unknown>{^*mi$}$?
+[/A1FZzLCHz9zc]
+[AlHkOCLhgZZV#0] ^unknown<unknown>{^*Eskiden$}$.
+[/AlHkOCLhgZZV]
+[B9u6H_lEoZr_#0] ^unknown<unknown>{^*Türk$}$ ^unknown<unknown>{^*ise$}$.
+[/B9u6H_lEoZr_]
+[BDEFhLR25WWw#0] ^unknown<unknown>{^*Her$}$ ^unknown<unknown>{^*zaman$}$.
+[/BDEFhLR25WWw]
+[BJYo4f90nIEG#0] ^unknown<unknown>{^*Sekiz$}$ ^unknown<unknown>{^*tane$}$ ^unknown<unknown>{^*mendil$}$.
+[/BJYo4f90nIEG]
+[BWwGfMoPrqJz#0] ^unknown<unknown>{^*Yağmur$}$ ^unknown<unknown>{^*için$}$ ^n<SN><dat>{^урам<n><dat>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*çıkamadım$}$.
+[/BWwGfMoPrqJz]
+[BYz7Yb_ggWZE#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değildimse$}$.
+[/BYz7Yb_ggWZE]
+[Brwjp5Z5c3ud#0] ^unknown<unknown>{^*Gelmiş$}$ ^unknown<unknown>{^*imişsem$}$.
+[/Brwjp5Z5c3ud]
+[ByVlpZpBEqR4#0] ^unknown<unknown>{^*Geldiysem$}$.
+[/ByVlpZpBEqR4]
+[CJCz1UrC9D6k#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><dat>$}$ ^unknown<unknown>{^*bir$}$ ^n<SN><nom>{^ҫыру<n><nom>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*yazmışımdır$}$.
+[/CJCz1UrC9D6k]
+[CVQV_1Ji2gQJ#0] ^pron<SN>{^Ку<prn><dem><nom>$}$ ^unknown<unknown>{^*bir$}$ ^n<SN><nom>{^кӗнеке<n><nom>$}$.
+[/CVQV_1Ji2gQJ]
+[CeiBGWGGIK8Y#0] ^unknown<unknown>{^*Kar$}$ ^unknown<unknown>{^*yağmiş$}$.
+[/CeiBGWGGIK8Y]
+[CjEyuCRlWV-b#0] ^n<SN><nom><px1sg>{^Юлташ<n><px1sg><nom>$}$ ^pron<SN>{^эпӗ<prn><pers><p1><sg><dat>$}$ ^unknown<unknown>{^*bekliyormuş$}$.
+[/CjEyuCRlWV-b]
+[CqruquIXcpVu#0] ^unknown<unknown>{^*Alıyor$}$ ^unknown<unknown>{^*idiysem$}$.
+[/CqruquIXcpVu]
+[D0lotButrTdc#0] ^unknown<unknown>{^*Gelecek$}$ ^unknown<unknown>{^*imişsem$}$.
+[/D0lotButrTdc]
+[D1bt_cNF-txv#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^unknown<unknown>{^*idiysem$}$.
+[/D1bt_cNF-txv]
+[DigygAGR4TX9#0] ^unknown<unknown>{^*Gelmeliyim$}$.
+[/DigygAGR4TX9]
+[DmHTbeLEXz1v#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/DmHTbeLEXz1v]
+[Du7cJ3l4LwJB#0] ^unknown<unknown>{^*Gelseymişim$}$.
+[/Du7cJ3l4LwJB]
+[ELUK_q2jDxiJ#0] ^unknown<unknown>{^*Gelseydim$}$.
+[/ELUK_q2jDxiJ]
+[EanjLd1Uuivo#0] ^unknown<unknown>{^*Şairimdir$}$.
+[/EanjLd1Uuivo]
+[EdGIZ-zYPNV8#0] ^unknown<unknown>{^*Gelmezdim$}$.
+[/EdGIZ-zYPNV8]
+[EkYNYXQmQJ-t#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p1><sg>$}$.
+[/EkYNYXQmQJ-t]
+[F70jWzrBJFOC#0] ^unknown<unknown>{^*Gelmiş$}$ ^unknown<unknown>{^*idiysem$}$.
+[/F70jWzrBJFOC]
+[F8smOYbRuUg6#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^unknown<unknown>{^*güzel$}$ ^unknown<unknown>{^*çocukları$}$.
+[/F8smOYbRuUg6]
+[F9Azn96yapnu#0] ^unknown<unknown>{^*Hazırım$}$.
+[/F9Azn96yapnu]
+[FA6b3iz3Db7q#0] ^unknown<unknown>{^*Geldimse$}$.
+[/FA6b3iz3Db7q]
+[FTFE-aAL8HsF#0] ^unknown<unknown>{^*Almıyordum$}$.
+[/FTFE-aAL8HsF]
+[FZAnCOvxSpPF#0] ^unknown<unknown>{^*Gelecekmişim$}$.
+[/FZAnCOvxSpPF]
+[FcgWTBjJT43t#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$ ^n<SN><loc>{^ял<n><loc>$}$ ^default<default>{^ӗ<cop><gna_ken>$}$ ^n<SN><dat><px1sg>{^анне<n><px1sg><dat>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*yardım$}$ ^unknown<unknown>{^*ettim$}$.
+[/FcgWTBjJT43t]
+[FdPetExX9o1i#0] ^unknown<unknown>{^*Gelmesi$}$ ^unknown<unknown>{^*gerekecek$}$.
+[/FdPetExX9o1i]
+[FjPTzA-pQLZ0#0] ^unknown<unknown>{^*Gelmeseymişim$}$.
+[/FjPTzA-pQLZ0]
+[Fqc8DJ2c8KUW#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*çocuğu$}$.
+[/Fqc8DJ2c8KUW]
+[GA28I8gCtWP5#0] ^unknown<unknown>{^*Almıyor$}$ ^unknown<unknown>{^*muyum$}$?
+[/GA28I8gCtWP5]
+[GJ8w80oI2onz#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değilim$}$.
+[/GJ8w80oI2onz]
+[GRM4A-PwIBr8#0] ^unknown<unknown>{^*Alıyormuşsam$}$.
+[/GRM4A-PwIBr8]
+[GS_qmmt3yugy#0] ^unknown<unknown>{^*Geleymişim$}$.
+[/GS_qmmt3yugy]
+[GczzoqXoTurS#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*isem$}$.
+[/GczzoqXoTurS]
+[GwmwVfogaqWO#0] ^unknown<unknown>{^*Aziz$}$’^unknown<unknown>{^*i$}$ ^unknown<unknown>{^*görmek$}$ ^unknown<unknown>{^*için$}$ ^unknown<unknown>{^*geldik$}$.
+[/GwmwVfogaqWO]
+[GzEtqhtF4FN2#0] ^unknown<unknown>{^*Buraya$}$ ^unknown<unknown>{^*gelirken$}$ ^unknown<unknown>{^*bir$}$ ^unknown<unknown>{^*şey$}$ ^unknown<unknown>{^*gördün$}$ ^unknown<unknown>{^*mü$}$?
+[/GzEtqhtF4FN2]
+[H3NtUNDfcFAP#0] ^unknown<unknown>{^*Çoktan$}$ ^unknown<unknown>{^*beri$}$.
+[/H3NtUNDfcFAP]
+[HRhfMnGTUOWP#0] ^n<SN><abl>{^Ир<n><abl>$}$ ^unknown<unknown>{^*beri$}$ ^unknown<unknown>{^*oynuyorduk$}$.
+[/HRhfMnGTUOWP]
+[HeZhKtkGDE7C#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*imişsem$}$.
+[/HeZhKtkGDE7C]
+[HlbKt55bLW1h#0] ^n<SN><dat>{^Хула<n><dat>$}$ ^unknown<unknown>{^*saat$}$ ^unknown<unknown>{^*10$}$'^unknown<unknown>{^*da$}$ ^unknown<unknown>{^*varmiştik$}$, ^unknown<unknown>{^*bürosuna$}$ ^unknown<unknown>{^*saat$}$ ^unknown<unknown>{^*3$}$'^unknown<unknown>{^*te$}$ ^unknown<unknown>{^*gittik$}$.
+[/HlbKt55bLW1h]
+[Hoz0gOFNUH7y#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^@mı<qst>$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$?
+[/Hoz0gOFNUH7y]
+[HplqIVsCpW7l#0] ^unknown<unknown>{^*Aniden$}$.
+[/HplqIVsCpW7l]
+[Hxx1G3Zju06b#0] ^unknown<unknown>{^*Alıyorduysam$}$.
+[/Hxx1G3Zju06b]
+[IDuWpgFTlb7_#0] ^unknown<unknown>{^*Gelmedi$}$ ^unknown<unknown>{^*miydim$}$?
+[/IDuWpgFTlb7_]
+[Io1Sls_TD92b#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^unknown<unknown>{^*isem$}$.
+[/Io1Sls_TD92b]
+[Ixb7EfXKhakV#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^unknown<unknown>{^*gibi$}$ ^unknown<unknown>{^*yap$}$.
+[/Ixb7EfXKhakV]
+[J7a1UXOzfFD4#0] ^unknown<unknown>{^*Almıyormuşsam$}$.
+[/J7a1UXOzfFD4]
+[JL10JyNACDL6#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><abl>$}$ ^unknown<unknown>{^*başka$}$
+[/JL10JyNACDL6]
+[JPfVFS7hUaNM#0] ^pron<SN>{^Ку<prn><dem><nom>$}$ ^unknown<unknown>{^*yazıya$}$ ^unknown<unknown>{^*Bakan$}$ ^unknown<unknown>{^*kızmasın$}$ ^unknown<unknown>{^*da$}$, ^unknown<unknown>{^*kim$}$ ^unknown<unknown>{^*kızsındı$}$?
+[/JPfVFS7hUaNM]
+[JUHfrJ4cpHfg#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değilmişsem$}$.
+[/JUHfrJ4cpHfg]
+[JdDyEhiNdXeO#0] ^unknown<unknown>{^*Alıyordum$}$.
+[/JdDyEhiNdXeO]
+[Ji2apMV8J-N9#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^@mı<qst>$}$ ^default<default>{^ӗ<cop><aor><p1><sg>$}$?
+[/Ji2apMV8J-N9]
+[JtBxpPgPsbtx#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*güzel$}$ ^unknown<unknown>{^*çocukları$}$.
+[/JtBxpPgPsbtx]
+[Jtmb9VjblHqO#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değildim$}$.
+[/Jtmb9VjblHqO]
+[KGU-Z2KUNlRa#0] ^unknown<unknown>{^*Gelmesem$}$.
+[/KGU-Z2KUNlRa]
+[KNOGmZrcV5ZQ#0] ^n<SN><dat><px3sp>{^Ҫанталӑк<n><px3sp><dat>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*göre$}$.
+[/KNOGmZrcV5ZQ]
+[KUViv1bEeJFk#0] ^unknown<unknown>{^*Beş$}$ ^n<SN><nom>{^кил<n><nom>$}$.
+[/KUViv1bEeJFk]
+[KXe5Wc6kls0E#0] ^unknown<unknown>{^*Alıyordumsa$}$.
+[/KXe5Wc6kls0E]
+[K_UFxE2eYGjo#0] ^unknown<unknown>{^*ne$}$ ^unknown<unknown>{^*tür$}$
+[/K_UFxE2eYGjo]
+[KhGXe0f-D_CP#0] ^unknown<unknown>{^*Çocuk$}$ ^unknown<unknown>{^*derse$}$ ^unknown<unknown>{^*geldiği$}$ ^unknown<unknown>{^*halde$}$ ^unknown<unknown>{^*hazır$}$ ^unknown<unknown>{^*değildi$}$.
+[/KhGXe0f-D_CP]
+[LHw6CoFVgI5p#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^unknown<unknown>{^*miydim$}$?
+[/LHw6CoFVgI5p]
+[LLuk3JW3ju7F#0] ^unknown<unknown>{^*Gelir$}$ ^unknown<unknown>{^*idiysem$}$.
+[/LLuk3JW3ju7F]
+[LR950Vwj6hUe#0] ^unknown<unknown>{^*Gelir$}$ ^unknown<unknown>{^*imişsem$}$.
+[/LR950Vwj6hUe]
+[LW6iO_ZBSp0X#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*güzel$}$ ^default<default>{^тата<cnjcoo>$}$ ^unknown<unknown>{^*uzun$}$ ^unknown<unknown>{^*boylu$}$ ^unknown<unknown>{^*çocukları$}$.
+[/LW6iO_ZBSp0X]
+[LwShhDwvnKFY#0] ^unknown<unknown>{^*Olmyıası$}$.
+[/LwShhDwvnKFY]
+[M34IFe1VXiNB#0] ^unknown<unknown>{^*Gelmese$}$ ^unknown<unknown>{^*miymişim$}$.
+[/M34IFe1VXiNB]
+[MFlmkDr3aNRl#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değilmişim$}$.
+[/MFlmkDr3aNRl]
+[MNnsN1sv0Gzj#0] ^unknown<unknown>{^*Geleyim$}$.
+[/MNnsN1sv0Gzj]
+[McYzPwN6jaeD#0] ^n<SN><nom><px1sg>{^Анне<n><px1sg><nom>$}$ ^unknown<unknown>{^*telefon$}$ ^unknown<unknown>{^*etmedikçe$}$ ^n<SN><abl>{^кил<n><abl>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*çıkmam$}$.
+[/McYzPwN6jaeD]
+[Mhd6l5_HnWlh#0] ^unknown<unknown>{^*Yedide$}$ ^unknown<unknown>{^*dört$}$.
+[/Mhd6l5_HnWlh]
+[O3BLn5gKNT-C#0] ^unknown<unknown>{^*Gelecektiysem$}$.
+[/O3BLn5gKNT-C]
+[OLOmNac4DoUA#0] ^unknown<unknown>{^*Üçte$}$ ^unknown<unknown>{^*bir$}$.
+[/OLOmNac4DoUA]
+[OWuv-nGGg_Ug#0] ^unknown<unknown>{^*Türk$}$ ^unknown<unknown>{^*idiyse$}$.
+[/OWuv-nGGg_Ug]
+[OYafk2buOw9e#0] ^unknown<unknown>{^*Almıyor$}$ ^unknown<unknown>{^*imişsem$}$.
+[/OYafk2buOw9e]
+[PD1_XMRZ_X2e#0] ^unknown<unknown>{^*Gelsem$}$.
+[/PD1_XMRZ_X2e]
+[PSi6Y-jkFds2#0] ^unknown<unknown>{^*Daha$}$ ^unknown<unknown>{^*kötü$}$.
+[/PSi6Y-jkFds2]
+[QGHKuGbNcmGI#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^unknown<unknown>{^*kadar$}$ ^unknown<unknown>{^*yap$}$.
+[/QGHKuGbNcmGI]
+[QGsDcKILYYB-#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^unknown<unknown>{^*fikrine$}$ ^unknown<unknown>{^*göre$}$...
+[/QGsDcKILYYB-]
+[QifzTMgsQjcr#0] ^n<SN><dat><px1pl>{^Ӗҫ<n><px1pl><dat>$}$ ^unknown<unknown>{^*bitirip$}$ ^unknown<unknown>{^*sinemaya$}$ ^unknown<unknown>{^*gittik$}$.
+[/QifzTMgsQjcr]
+[RFH79cXPFto_#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*idiysem$}$.
+[/RFH79cXPFto_]
+[RIZ6Wb_HZVFC#0] ^unknown<unknown>{^*Almıyorsam$}$.
+[/RIZ6Wb_HZVFC]
+[RLYDUMCz973V#0] ^unknown<unknown>{^*Gelmeseydim$}$.
+[/RLYDUMCz973V]
+[RRrPoEcVF2RF#0] ^unknown<unknown>{^*Almıyor$}$ ^unknown<unknown>{^*muymuşum$}$?
+[/RRrPoEcVF2RF]
+[RwNqYrs6OEIJ#0] ^unknown<unknown>{^*Gelmişmişim$}$.
+[/RwNqYrs6OEIJ]
+[Rxv5Fk2lKhdo#0] ^unknown<unknown>{^*Ali$}$ ^unknown<unknown>{^*bahçede$}$ ^unknown<unknown>{^*oynadığı$}$ ^unknown<unknown>{^*zaman$}$ ^unknown<unknown>{^*kardeşi$}$ ^n<SN><loc>{^кил<n><loc>$}$ ^unknown<unknown>{^*derslere$}$ ^unknown<unknown>{^*ҫalışıyor$}$.
+[/Rxv5Fk2lKhdo]
+[SFXBzajA_szJ#0] ^unknown<unknown>{^*Gele$}$ ^unknown<unknown>{^*mi$}$?
+[/SFXBzajA_szJ]
+[SyRP3x-VrAhh#0] ^unknown<unknown>{^*Bileydim$}$ ^unknown<unknown>{^*buraya$}$ ^unknown<unknown>{^*kadar$}$ ^unknown<unknown>{^*gelmezdim$}$.
+[/SyRP3x-VrAhh]
+[T66pUw8V9rWn#0] ^unknown<unknown>{^*Gelmem$}$.
+[/T66pUw8V9rWn]
+[TGk9F4GG247O#0] ^unknown<unknown>{^*Yarın$}$ ^unknown<unknown>{^*gelirım$}$.
+[/TGk9F4GG247O]
+[TOQ_F4QZYr69#0] ^unknown<unknown>{^*Geldimdi$}$.
+[/TOQ_F4QZYr69]
+[ThgKlEsxE8MV#0] ^unknown<unknown>{^*Daha$}$ ^unknown<unknown>{^*iyi$}$.
+[/ThgKlEsxE8MV]
+[U3vJQbAtDWDy#0] ^unknown<unknown>{^*Gelirdim$}$.
+[/U3vJQbAtDWDy]
+[U64Uuon-1uDw#0] ^unknown<unknown>{^*Geldiydim$}$.
+[/U64Uuon-1uDw]
+[UCysrTbD0fVr#0] ^pron<SN>{^Ку<prn><dem><nom>$}$ ^n<SN><nom><px3sp>{^кӗнеке<n><px3sp><nom>$}$ ^pron<SN>{^эсӗ<prn><pers><p2><sg><gen>$}$ ^unknown<unknown>{^*için$}$ ^unknown<unknown>{^*aldım$}$.
+[/UCysrTbD0fVr]
+[UJv30gsNXTLM#0] ^n<SN><nom><px1sg>{^Юлташ<n><px1sg><nom>$}$ ^pron<SN>{^эпӗ<prn><pers><p1><sg><dat>$}$ ^unknown<unknown>{^*bekliyordur$}$.
+[/UJv30gsNXTLM]
+[UUp4FhuX5nVj#0] ^unknown<unknown>{^*Otobüse$}$ ^unknown<unknown>{^*binerek$}$ ^n<SN><dat>{^кил<n><dat>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*gittim$}$.
+[/UUp4FhuX5nVj]
+[UtjNd76Ra2il#0] ^unknown<unknown>{^*Gelmesem$}$ ^unknown<unknown>{^*miymişi$}$.
+[/UtjNd76Ra2il]
+[UtjuKaf9vRpk#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^@mı<qst>$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$?
+[/UtjuKaf9vRpk]
+[VBXQSg44n0P1#0] ^unknown<unknown>{^*Uzun$}$ ^unknown<unknown>{^*kız$}$.
+[/VBXQSg44n0P1]
+[VG0St--euvku#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^unknown<unknown>{^*gizli$}$ ^unknown<unknown>{^*fikirlerini$}$ ^unknown<unknown>{^*halk$}$ ^unknown<unknown>{^*ne$}$ ^unknown<unknown>{^*bilsindi$}$?
+[/VG0St--euvku]
+[VG5-JzBxzmm7#0] ^unknown<unknown>{^*Beş$}$ ^unknown<unknown>{^*tane$}$ ^unknown<unknown>{^*anahtar$}$.
+[/VG5-JzBxzmm7]
+[VXEnkadA-gfH#0] ^unknown<unknown>{^*Yorganına$}$ ^unknown<unknown>{^*göre$}$ ^unknown<unknown>{^*ayağını$}$ ^unknown<unknown>{^*uzat$}$.
+[/VXEnkadA-gfH]
+[VcGROriLRArz#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*güzel$}$ ^default<default>{^тата<cnjcoo>$}$ ^unknown<unknown>{^*uzun$}$ ^unknown<unknown>{^*boylu$}$ ^unknown<unknown>{^*çocuğu$}$.
+[/VcGROriLRArz]
+[VmZ62ByU_oQN#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$.
+[/VmZ62ByU_oQN]
+[WH3FAundeTOk#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değilsem$}$.
+[/WH3FAundeTOk]
+[WOM6w-XCwOlD#0] ^unknown<unknown>{^*Orta$}$ ^n<SN><nom><px3sp>{^шкул<n><px3sp><nom>$}$ ^unknown<unknown>{^*bitirdikten$}$ ^unknown<unknown>{^*sonra$}$ ^unknown<unknown>{^*enstitüye$}$ ^unknown<unknown>{^*gireceğim$}$.
+[/WOM6w-XCwOlD]
+[Wf3_gN3NpvOa#0] ^unknown<unknown>{^*Geldi$}$ ^unknown<unknown>{^*miydim$}$?
+[/Wf3_gN3NpvOa]
+[WxWIjLwNOIys#0] ^unknown<unknown>{^*Gelmeli$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$.
+[/WxWIjLwNOIys]
+[XH5z36TH7bBd#0] ^unknown<unknown>{^*Gelmişim$}$.
+[/XH5z36TH7bBd]
+[XSJ5JGqGzGPJ#0] ^unknown<unknown>{^*Gelmiştir$}$.
+[/XSJ5JGqGzGPJ]
+[XYG8bHt2dDhX#0] ^unknown<unknown>{^*Gelmişsem$}$.
+[/XYG8bHt2dDhX]
+[XgJLTJEtbH8s#0] ^unknown<unknown>{^*Gelmiş$}$ ^unknown<unknown>{^*miydik$}$?
+[/XgJLTJEtbH8s]
+[Y88UdJ2y9v4L#0] ^unknown<unknown>{^*Gelecek$}$ ^unknown<unknown>{^*miydim$}$?
+[/Y88UdJ2y9v4L]
+[YSF6zYWS3TVF#0] ^unknown<unknown>{^*Kitaplıktaki$}$ ^unknown<unknown>{^*kitapın$}$ ^unknown<unknown>{^*yeri$}$
+[/YSF6zYWS3TVF]
+[YfNcl8ZRo27X#0] ^unknown<unknown>{^*Türk$}$ ^unknown<unknown>{^*müyüm$}$?
+[/YfNcl8ZRo27X]
+[Yfk1TDHEO-0r#0] ^unknown<unknown>{^*Gelmemeliydim$}$.
+[/Yfk1TDHEO-0r]
+[ZAJVgFilnGM7#0] ^unknown<unknown>{^*Gelsem$}$ ^unknown<unknown>{^*miymişi$}$.
+[/ZAJVgFilnGM7]
+[ZFkUReVU0RjL#0] ^unknown<unknown>{^*Çuvaşistan$}$ ^unknown<unknown>{^*Özerk$}$ ^unknown<unknown>{^*Sovyet$}$ ^unknown<unknown>{^*Sosyalist$}$ ^unknown<unknown>{^*Cumhuriyeti$}$.
+[/ZFkUReVU0RjL]
+[Zw3LZkhJqTjw#0] ^unknown<unknown>{^*Gelmiş$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/Zw3LZkhJqTjw]
+[ZxdsljsuzDa3#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^unknown<unknown>{^*mi$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$?
+[/ZxdsljsuzDa3]
+[_IpB_R9hhJ_g#0] ^unknown<unknown>{^*Alıyor$}$ ^unknown<unknown>{^*imişsem$}$.
+[/_IpB_R9hhJ_g]
+[a43SvwQqQFnv#0] ^unknown<unknown>{^*Gelmiyecek$}$.
+[/a43SvwQqQFnv]
+[aYzP2ukA-hG_#0] ^unknown<unknown>{^*Gelmiyeyim$}$ ^unknown<unknown>{^*mi$}$?
+[/aYzP2ukA-hG_]
+[ahduny0LT_oa#0] ^unknown<unknown>{^*Kalemsizler$}$.
+[/ahduny0LT_oa]
+[bxzaE0oOOfH0#0] ^n<SN><nom><px1sg>{^Юлташ<n><px1sg><nom>$}$ ^pron<SN>{^эпӗ<prn><pers><p1><sg><dat>$}$ ^unknown<unknown>{^*bekliyor$}$.
+[/bxzaE0oOOfH0]
+[c1-vrZieQMuu#0] ^unknown<unknown>{^*Gelmeliydim$}$.
+[/c1-vrZieQMuu]
+[c8uqJDU2ASbe#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^unknown<unknown>{^*güzel$}$ ^default<default>{^тата<cnjcoo>$}$ ^unknown<unknown>{^*uzun$}$ ^unknown<unknown>{^*boylu$}$ ^unknown<unknown>{^*çocukları$}$.
+[/c8uqJDU2ASbe]
+[cqGFjdszxmrS#0] ^unknown<unknown>{^*Yüzde$}$ ^unknown<unknown>{^*yirmi$}$ ^unknown<unknown>{^*beş$}$.
+[/cqGFjdszxmrS]
+[d6mqwZS0LGMi#0] ^unknown<unknown>{^*Olur$}$ ^unknown<unknown>{^*mu$}$?
+[/d6mqwZS0LGMi]
+[dBQIcSycNhF5#0] ^unknown<unknown>{^*Yirmi$}$ ^n<SN><nom>{^сӗтел<n><nom>$}$.
+[/dBQIcSycNhF5]
+[dDuQF__sfirE#0] ^n<SN><nom><px3sp>{^Атте<n><px3sp><nom>$}$ ^n<SN><abl>{^кил<n><abl>$}$ ^unknown<unknown>{^*çıkar$}$ ^unknown<unknown>{^*çıkmaz$}$ ^unknown<unknown>{^*kızı$}$ ^unknown<unknown>{^*ağlamaya$}$ ^unknown<unknown>{^*başladı$}$.
+[/dDuQF__sfirE]
+[dM5n_XUUdW2P#0] ^unknown<unknown>{^*Gelmez$}$ ^unknown<unknown>{^*miyim$}$?
+[/dM5n_XUUdW2P]
+[e-Isce8Yor3G#0] ^unknown<unknown>{^*Gelecek$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/e-Isce8Yor3G]
+[e_K31eRRuNd_#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$ ^unknown<unknown>{^*sadece$}$ ^pron<SN>{^ку<prn><dem><px3sp><nom>$}$ ^unknown<unknown>{^*söylemek$}$ ^unknown<unknown>{^*isterdim$}$.
+[/e_K31eRRuNd_]
+[eg_Hn5IlUeoH#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*değildiysem$}$.
+[/eg_Hn5IlUeoH]
+[fRNm3lMgWwdz#0] ^unknown<unknown>{^*Geleceğim$}$.
+[/fRNm3lMgWwdz]
+[fWoJ9povOlNF#0] ^unknown<unknown>{^*Gelmemiz$}$ ^unknown<unknown>{^*gerektiyse$}$.
+[/fWoJ9povOlNF]
+[fmilhGt7aySC#0] ^unknown<unknown>{^*Evdeydimse$}$.
+[/fmilhGt7aySC]
+[guQH91H1-YEn#0] ^unknown<unknown>{^*Gelmemişim$}$.
+[/guQH91H1-YEn]
+[h-LjADa4SMUh#0] ^unknown<unknown>{^*Ne$}$ … ^unknown<unknown>{^*ne$}$
+[/h-LjADa4SMUh]
+[hJ9pNAShTj48#0] ^unknown<unknown>{^*Köprüye$}$ ^unknown<unknown>{^*doğru$}$ ^unknown<unknown>{^*gidiyoruz$}$.
+[/hJ9pNAShTj48]
+[h_FvKNR5cZX0#0] ^unknown<unknown>{^*Almıyormuşum$}$.
+[/h_FvKNR5cZX0]
+[hfCN4_tuZi9B#0] ^unknown<unknown>{^*Hem$}$ ^unknown<unknown>{^*Rusça$}$, ^unknown<unknown>{^*hem$}$ ^unknown<unknown>{^*Çuvaşca$}$.
+[/hfCN4_tuZi9B]
+[hhCDNF7UTA5q#0] ^n<SN><dat>{^Кил<n><dat>$}$ ^default<default>{^@mı<qst>$}$ ^unknown<unknown>{^*ola$}$?
+[/hhCDNF7UTA5q]
+[hvNbIk56vqu1#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^unknown<unknown>{^*güzel$}$ ^default<default>{^тата<cnjcoo>$}$ ^unknown<unknown>{^*uzun$}$ ^unknown<unknown>{^*boylu$}$ ^unknown<unknown>{^*çocuğu$}$.
+[/hvNbIk56vqu1]
+[iFSRhmJpndZW#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/iFSRhmJpndZW]
+[iL2p4B_OFOls#0] ^unknown<unknown>{^*En$}$ ^unknown<unknown>{^*güzel$}$.
+[/iL2p4B_OFOls]
+[iNd-vn4pPOLK#0] ^unknown<unknown>{^*Alıyormuşum$}$.
+[/iNd-vn4pPOLK]
+[i_xTG-eZlbfK#0] ^unknown<unknown>{^*Bir$}$ ^unknown<unknown>{^*şey$}$ ^unknown<unknown>{^*söylemeden$}$ ^unknown<unknown>{^*gitti$}$.
+[/i_xTG-eZlbfK]
+[jL-Kdris605_#0] ^unknown<unknown>{^*Okumuşsunuzdur$}$.
+[/jL-Kdris605_]
+[k94JZPcY0PV7#0] ^unknown<unknown>{^*Geleydim$}$.
+[/k94JZPcY0PV7]
+[kRqWIzQk-F0o#0] ^unknown<unknown>{^*Okumuşsunuz$}$.
+[/kRqWIzQk-F0o]
+[kt8Ts5ZeOD09#0] ^unknown<unknown>{^*Gelmemeliyim$}$.
+[/kt8Ts5ZeOD09]
+[kumxkz4Pt_G4#0] ^unknown<unknown>{^*Devamlı$}$ ^unknown<unknown>{^*olarak$}$.
+[/kumxkz4Pt_G4]
+[l1DCnAgJ7Pfd#0] ^unknown<unknown>{^*Öğretmen$}$ ^unknown<unknown>{^*anlattıkça$}$ ^unknown<unknown>{^*merakımız$}$ ^unknown<unknown>{^*atıyordu$}$.
+[/l1DCnAgJ7Pfd]
+[l5_Ys6AV0l3y#0] ^unknown<unknown>{^*Gelmemeli$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$.
+[/l5_Ys6AV0l3y]
+[lECOaIWWrmyu#0] ^unknown<unknown>{^*Gelmeli$}$ ^unknown<unknown>{^*miydiniz$}$?
+[/lECOaIWWrmyu]
+[lL2Y2K0d-MlZ#0] ^unknown<unknown>{^*Esma$}$ ^unknown<unknown>{^*girer$}$, ^unknown<unknown>{^*oturur$}$.
+[/lL2Y2K0d-MlZ]
+[lxHoNO1eov3F#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^default<default>{^питӗ<adv>$}$ ^unknown<unknown>{^*güzel$}$ ^unknown<unknown>{^*çocuğu$}$.
+[/lxHoNO1eov3F]
+[mDxqh1U1vC14#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$.
+[/mDxqh1U1vC14]
+[mN8zl9vN_-wj#0] ^unknown<unknown>{^*Gelmeli$}$ ^default<default>{^ӗ<cop><ifi><p1><sg>$}$?
+[/mN8zl9vN_-wj]
+[mNLefdp_5GoI#0] ^unknown<unknown>{^*Geldim$}$ ^unknown<unknown>{^*mi$}$?
+[/mNLefdp_5GoI]
+[mRWlA0BQXS21#0] ^unknown<unknown>{^*Kör$}$ ^unknown<unknown>{^*olası$}$.
+[/mRWlA0BQXS21]
+[mV8wuYDQepR6#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$ ^n<SN><loc>{^кил<n><loc>$}$ ^unknown<unknown>{^*yalnız$}$ ^unknown<unknown>{^*oturuyorum$}$.
+[/mV8wuYDQepR6]
+[mdJuBk0vIDvO#0] ^unknown<unknown>{^*Türküm$}$.
+[/mdJuBk0vIDvO]
+[mlW_g7hE6DVG#0] ^unknown<unknown>{^*Gelmemeliymişim$}$.
+[/mlW_g7hE6DVG]
+[mwHc9BKJkapy#0] ^n<SN><loc>{^Кил<n><loc>$}$ ^unknown<unknown>{^*değil$}$ ^unknown<unknown>{^*imişseim$}$.
+[/mwHc9BKJkapy]
+[n8zzsEMGh6fm#0] ^unknown<unknown>{^*Gelme$}$!
+[/n8zzsEMGh6fm]
+[nRmB9ZrLuuBd#0] ^unknown<unknown>{^*Alıyor$}$ ^unknown<unknown>{^*muydum$}$?
+[/nRmB9ZrLuuBd]
+[ngcxx6w4LrX1#0] -^unknown<unknown>{^*da$}$, -^unknown<unknown>{^*de$}$
+[/ngcxx6w4LrX1]
+[nuhSYW75Otp2#0] ^unknown<unknown>{^*Alıyor$}$ ^unknown<unknown>{^*muymuşum$}$?
+[/nuhSYW75Otp2]
+[o1LdWRlIu4KT#0] ^unknown<unknown>{^*Gelecektir$}$.
+[/o1LdWRlIu4KT]
+[oTeVJXm2rs1v#0] ^n<SN><dat>{^Кил<n><dat>$}$ ^unknown<unknown>{^*girmeden$}$ ^unknown<unknown>{^*önce$}$ ^unknown<unknown>{^*mağazaya$}$ ^unknown<unknown>{^*gittim$}$.
+[/oTeVJXm2rs1v]
+[p3D21to4IXAb#0] ^unknown<unknown>{^*Gel$}$!
+[/p3D21to4IXAb]
+[p4V8-4AFSp5D#0] ^unknown<unknown>{^*Yüz$}$ ^unknown<unknown>{^*baş$}$ ^unknown<unknown>{^*koyun$}$.
+[/p4V8-4AFSp5D]
+[pKSz2RJei-8X#0] ^unknown<unknown>{^*Gelmekteydim$}$.
+[/pKSz2RJei-8X]
+[pXGL1RVl4l0H#0] ^unknown<unknown>{^*Geldim$}$ ^unknown<unknown>{^*miydi$}$?
+[/pXGL1RVl4l0H]
+[pjZj3QmXnkQO#0] ^unknown<unknown>{^*Almakta$}$ ^unknown<unknown>{^*değildim$}$.
+[/pjZj3QmXnkQO]
+[pnbc01KlbVOA#0] ^unknown<unknown>{^*Gelmem$}$ ^unknown<unknown>{^*gerekirse$}$.
+[/pnbc01KlbVOA]
+[q04pHzdI6RS9#0] ^unknown<unknown>{^*Olmaz$}$.
+[/q04pHzdI6RS9]
+[qVdHGzSsEmxr#0] -^unknown<unknown>{^*e$}$ ^unknown<unknown>{^*rağmen$}$
+[/qVdHGzSsEmxr]
+[qiy2zhv0meoL#0] ^unknown<unknown>{^*Gelecek$}$ ^unknown<unknown>{^*idiysem$}$.
+[/qiy2zhv0meoL]
+[qvqGSNGbFn2L#0] ^unknown<unknown>{^*Çünkü$}$
+[/qvqGSNGbFn2L]
+[r5VLvgUENPB4#0] ^unknown<unknown>{^*Gelecektim$}$.
+[/r5VLvgUENPB4]
+[rTjp20Oj3OGD#0] ^unknown<unknown>{^*Ali$}$ ^unknown<unknown>{^*çalışırken$}$ ^unknown<unknown>{^*konuşmaz$}$.
+[/rTjp20Oj3OGD]
+[sGMCPrkG8pMw#0] ^unknown<unknown>{^*Gelmedim$}$ ^unknown<unknown>{^*miydi$}$?
+[/sGMCPrkG8pMw]
+[soTtgnzPCPgY#0] ^n<SN><nom>{^Ҫанталӑк<n><nom>$}$ ^unknown<unknown>{^*sıcakken$}$ ^pron<SN>{^эпир<prn><pers><p1><pl><nom>$}$ ^unknown<unknown>{^*her$}$ ^unknown<unknown>{^*zaman$}$ ^unknown<unknown>{^*Volga$}$ ^unknown<unknown>{^*yanına$}$ ^unknown<unknown>{^*gidiyorduk$}$.
+[/soTtgnzPCPgY]
+[syYVjT29EQK4#0] ^unknown<unknown>{^*Gelirdiysem$}$.
+[/syYVjT29EQK4]
+[t8_8iIp9DP96#0] ^unknown<unknown>{^*Almıyorduysam$}$.
+[/t8_8iIp9DP96]
+[tHkunx7-nKeR#0] ^unknown<unknown>{^*Almıyor$}$ ^unknown<unknown>{^*muydum$}$?
+[/tHkunx7-nKeR]
+[tQWYBfTEp8j7#0] ^unknown<unknown>{^*Gelir$}$ ^unknown<unknown>{^*miydim$}$?
+[/tQWYBfTEp8j7]
+[tQaLllUt5n1M#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><dat>$}$ ^unknown<unknown>{^*akşama$}$ ^unknown<unknown>{^*kadar$}$ ^unknown<unknown>{^*bekledik$}$.
+[/tQaLllUt5n1M]
+[uE4czNhLrYl6#0] ^unknown<unknown>{^*Taş$}$ ^unknown<unknown>{^*köprü$}$.
+[/uE4czNhLrYl6]
+[uLCXp5iJb_3b#0] ^n<SN><nom><px1sg>{^Атте<n><px1sg><nom>$}$ ^unknown<unknown>{^*dede$}$ ^unknown<unknown>{^*ki$}$, ^unknown<unknown>{^*yarın$}$ ^pron<SN>{^эпир<prn><pers><p1><pl><dat>$}$ ^unknown<unknown>{^*gelesiniz$}$.
+[/uLCXp5iJb_3b]
+[uYeLHOl0qZFf#0] ^unknown<unknown>{^*Türkmüşse$}$.
+[/uYeLHOl0qZFf]
+[uZcS579UN8SH#0] ^unknown<unknown>{^*Gelmemeli$}$ ^unknown<unknown>{^*miydik$}$?
+[/uZcS579UN8SH]
+[upCjEBda4AQV#0] ^unknown<unknown>{^*Gelirsem$}$.
+[/upCjEBda4AQV]
+[utDA5weSAiM-#0] ^unknown<unknown>{^*Almıyor$}$ ^unknown<unknown>{^*idiysem$}$.
+[/utDA5weSAiM-]
+[vAYuMycOu6KH#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$ ^unknown<unknown>{^*güzel$}$ ^default<default>{^тата<cnjcoo>$}$ ^unknown<unknown>{^*uzun$}$ ^unknown<unknown>{^*boylu$}$ ^unknown<unknown>{^*çocukları$}$.
+[/vAYuMycOu6KH]
+[vCYWJ-sGNqLH#0] ^unknown<unknown>{^*Gelse$}$ ^default<default>{^ӗ<cop><dub><aor><p1><sg>$}$.
+[/vCYWJ-sGNqLH]
+[vKsM34sbbeNw#0] -^unknown<unknown>{^*e$}$ ^unknown<unknown>{^*doğru$}$
+[/vKsM34sbbeNw]
+[vP6rkhTu0vVs#0] ^unknown<unknown>{^*Anna$}$ ^unknown<unknown>{^*müdürken$}$ ^n<SN><loc>{^шкул<n><loc>$}$ ^unknown<unknown>{^*çocuk$}$ ^default<default>{^питӗ<adv>$}$ ^default<default>{^ӗ<cop><ifi><p3><sg>$}$.
+[/vP6rkhTu0vVs]
+[vS6PAtqq3GD4#0] ^unknown<unknown>{^*Beş$}$ ^unknown<unknown>{^*kilo$}$ ^unknown<unknown>{^*kadar$}$.
+[/vS6PAtqq3GD4]
+[vqUYd_NzPsxC#0] ^unknown<unknown>{^*Taraf$}$.
+[/vqUYd_NzPsxC]
+[wNkm8wVPDvg2#0] ^unknown<unknown>{^*Buz$}$ ^unknown<unknown>{^*gibi$}$ ^n<SN><nom>{^сивӗ<n><nom>$}$.
+[/wNkm8wVPDvg2]
+[w_WJsxfHJ-6E#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$ ^unknown<unknown>{^*orada$}$ ^default<default>{^ӗ<cop><gna_ken>$}$ ^unknown<unknown>{^*yağmur$}$ ^unknown<unknown>{^*yağmaya$}$ ^unknown<unknown>{^*başladı$}$.
+[/w_WJsxfHJ-6E]
+[wrZr7KUsjuta#0] ^unknown<unknown>{^*Bugün$}$ ^pron<SN>{^эпӗ<prn><pers><p1><sg><dat>$}$ ^unknown<unknown>{^*gelecek$}$ ^unknown<unknown>{^*misin$}$?
+[/wrZr7KUsjuta]
+[xAr2dGTmTPJw#0] ^unknown<unknown>{^*Elmasını$}$ ^unknown<unknown>{^*elinde$}$ ^unknown<unknown>{^*tutamayınca$}$ ^unknown<unknown>{^*çocuk$}$ ^unknown<unknown>{^*bağırdı$}$.
+[/xAr2dGTmTPJw]
+[xGlPLpPVxOfV#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><nom>$}$
+[/xGlPLpPVxOfV]
+[xelJN0vXtB7T#0] ^unknown<unknown>{^*Gelirmişsem$}$.
+[/xelJN0vXtB7T]
+[xkJJJreu6VTt#0] ^unknown<unknown>{^*Gelecekmişsem$}$.
+[/xkJJJreu6VTt]
+[xpTFsLS_U5Hv#0] ^unknown<unknown>{^*Gelmiştim$}$.
+[/xpTFsLS_U5Hv]
+[xuD_5BJDwu3P#0] ^unknown<unknown>{^*Gece$}$ ^unknown<unknown>{^*olmayınca$}$ ^unknown<unknown>{^*yıldız$}$ ^unknown<unknown>{^*görünmez$}$.
+[/xuD_5BJDwu3P]
+[xxlQ-wzwrMYP#0] ^unknown<unknown>{^*Gelmedim$}$ ^unknown<unknown>{^*mi$}$?
+[/xxlQ-wzwrMYP]
+[y1jkYAvwFCy-#0] ^unknown<unknown>{^*ne$}$
+[/y1jkYAvwFCy-]
+[y5oLw2AzE7hU#0] ^unknown<unknown>{^*Gelirmişim$}$.
+[/y5oLw2AzE7hU]
+[yD-YdD-5RRIj#0] ^unknown<unknown>{^*Son$}$ ^unknown<unknown>{^*zamanlarda$}$.
+[/yD-YdD-5RRIj]
+[ygtjpguynG5L#0] ^unknown<unknown>{^*Gelmiyecek$}$ ^unknown<unknown>{^*miyim$}$?
+[/ygtjpguynG5L]
+[yvxYJ2btFdgC#0] ^unknown<unknown>{^*Kalemsiz$}$ ^unknown<unknown>{^*küçük$}$ ^unknown<unknown>{^*kız$}$.
+[/yvxYJ2btFdgC]
+[z2i2gpoqWtmP#0] ^unknown<unknown>{^*On$}$ ^unknown<unknown>{^*buçuk$}$ ^unknown<unknown>{^*kilometre$}$.
+[/z2i2gpoqWtmP]
+[zVcb7Mu-AxPq#0] ^unknown<unknown>{^*Türk$}$ ^default<default>{^ӗ<cop><ifi><p3><sg>$}$.
+[/zVcb7Mu-AxPq]
+[zcfYZ-lsEtnC#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$ ^unknown<unknown>{^*güzel$}$ ^unknown<unknown>{^*çocuğu$}$.
+[/zcfYZ-lsEtnC]
+[zdd4-KrzhijY#0] ^unknown<unknown>{^*Ayşe$}$ ^unknown<unknown>{^*hastalanalı$}$ ^unknown<unknown>{^*tam$}$ ^unknown<unknown>{^*bir$}$ ^unknown<unknown>{^*sene$}$ ^unknown<unknown>{^*olmuştu$}$.
+[/zdd4-KrzhijY]
+[zoxAhV9_qSrA#0] ^unknown<unknown>{^*Şairim$}$.
+[/zoxAhV9_qSrA]
+[zx2rYfztOecR#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$ ^unknown<unknown>{^*çocuk$}$ ^default<default>{^ӗ<cop><gna_ken>$}$ ^unknown<unknown>{^*öğrenmeye$}$ ^default<default>{^питӗ<adv>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*seviyordum$}$.
+[/zx2rYfztOecR]

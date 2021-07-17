@@ -15,7 +15,7 @@
         <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="chv-tur.lrx.bin"/>
+        <file name="chv-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.chv-tur.t1x"/>
@@ -48,7 +48,7 @@
         <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="chv-tur.lrx.bin"/>
+        <file name="chv-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.chv-tur.t1x"/>
@@ -129,7 +129,7 @@
         <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc -t">
-        <file name="chv-tur.lrx.bin"/>
+        <file name="chv-tur.autolex.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -148,7 +148,7 @@
         <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="chv-tur.lrx.bin"/>
+        <file name="chv-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.chv-tur.t1x"/>
@@ -170,7 +170,7 @@
         <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="chv-tur.lrx.bin"/>
+        <file name="chv-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.chv-tur.t1x"/>
@@ -196,7 +196,7 @@
         <file name="chv-tur.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="chv-tur.lrx.bin"/>
+        <file name="chv-tur.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.chv-tur.t1x"/>
@@ -228,7 +228,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.tur-chv.t1x"/>
@@ -265,7 +265,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.tur-chv.t1x"/>
@@ -350,7 +350,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc -t">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
     </pipeline>
   </mode>
@@ -368,7 +368,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.tur-chv.t1x"/>
@@ -390,7 +390,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.tur-chv.t1x"/>
@@ -416,7 +416,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.tur-chv.t1x"/>
@@ -446,7 +446,7 @@
         <file name="tur-chv.autobil.bin"/>
       </program>
       <program name="lrx-proc">
-        <file name="tur-chv.lrx.bin"/>
+        <file name="tur-chv.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
         <file name="apertium-chv-tur.tur-chv.t1x"/>

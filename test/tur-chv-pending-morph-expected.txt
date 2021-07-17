@@ -1,0 +1,570 @@
+[-AJP-9_StR83#0] ^Evdeymişsem/ev<n><loc>+i<cop><dub><cond><p1><sg>$.
+[/-AJP-9_StR83]
+[-D_jIgDmhQaJ#0] ^Almakta/*Almakta$ ^değilim/*değilim$.
+[/-D_jIgDmhQaJ]
+[-X9FLzjaFpn2#0] ^Kalemsiz/*Kalemsiz$ ^yazıyorum/*yazıyorum$.
+[/-X9FLzjaFpn2]
+[-d8RWo-OY9Iy#0] ^Ordaki/*Ordaki$.
+[/-d8RWo-OY9Iy]
+[00UzAaZk62vd#0] ^Rusya/*Rusya$ ^Sovyet/*Sovyet$ ^Federatif/*Federatif$ ^Sosyalist/*Sosyalist$ ^Cumhuriyeti/*Cumhuriyeti$.
+[/00UzAaZk62vd]
+[03RVcT9bW3XE#0] ^Gelecek/*Gelecek$ ^miyim/*miyim$?
+[/03RVcT9bW3XE]
+[03bxNSIc6L3s#0] ^Gelmiyecek/*Gelmiyecek$ ^miymişim/*miymişim$?
+[/03bxNSIc6L3s]
+[06-smjGk4Qk-#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^imişim/i<cop><dub><aor><p1><sg>$.
+[/06-smjGk4Qk-]
+[0QuUK0B54Jni#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^ve/ve<cnjcoo>$ ^uzun/*uzun$ ^boylu/*boylu$ ^çocukları/*çocukları$.
+[/0QuUK0B54Jni]
+[0ciDri7ZJv-i#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^çocukları/*çocukları$.
+[/0ciDri7ZJv-i]
+[0cvs9lp070IC#0] ^Almıştım/*Almıştım$.
+[/0cvs9lp070IC]
+[0dMSit8BftfV#0] ^Yüzde/*Yüzde$ ^yüz/*yüz$.
+[/0dMSit8BftfV]
+[0fWMBvuALz7e#0] ^Geldim/*Geldim$.
+[/0fWMBvuALz7e]
+[0suVHCw3JyLQ#0] ^Cevdet/*Cevdet$ ^birkaç/*birkaç$ ^dolar/*dolar$ ^için/*için$ ^12/*12$ ^saat/*saat$ ^çalıştı/*çalıştı$.
+[/0suVHCw3JyLQ]
+[0vZmJIn_FvEs#0] ^Biliyorsunuzdur/*Biliyorsunuzdur$.
+[/0vZmJIn_FvEs]
+[0y2MZfS1ONy0#0] ^bugün/*bugün$ ^değil/*değil$, ^dün/*dün$ ^geldi/*geldi$.
+[/0y2MZfS1ONy0]
+[14snRGH9U0kN#0] ^Yarın/*Yarın$ ^geleyim/*geleyim$.
+[/14snRGH9U0kN]
+[17ORnsl_DcY9#0] ^En/*En$ ^keskin/*keskin$.
+[/17ORnsl_DcY9]
+[1R4TUZUgMqyO#0] ^Gelir/*Gelir$ ^miyim/*miyim$?
+[/1R4TUZUgMqyO]
+[1WYyW4a83Fza#0] ^Türktüm/*Türktüm$.
+[/1WYyW4a83Fza]
+[1WcpwWMvxXsZ#0] ^Ermenistan/*Ermenistan$ ^Sovyet/*Sovyet$ ^Sosyalist/*Sosyalist$ ^Cumhuriyeti/*Cumhuriyeti$.
+[/1WcpwWMvxXsZ]
+[1sGIrjyGu_lp#0] ^Sen/sen<prn><pers><p2><sg><nom>/sen<prn><pers><p2><sg><nom>+i<cop><aor><p3><sg>$ ^hastanedeyken/*hastanedeyken$ ^ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^Moskovaya/*Moskovaya$ ^gidip/*gidip$ ^geldim/*geldim$.
+[/1sGIrjyGu_lp]
+[1vidvD44kJuA#0] ^Içinde/*Içinde$
+[/1vidvD44kJuA]
+[25KjPw1TVTJ4#0] ^Geleceksem/*Geleceksem$.
+[/25KjPw1TVTJ4]
+[2VWfVivtwQgH#0] ^Ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^Moskovadan/*Moskovadan$ ^geldikten/*geldikten$ ^beri/*beri$ ^bir/*bir$ ^ay/*ay$ ^geçti/*geçti$.
+[/2VWfVivtwQgH]
+[3AIZDK-Bjrwv#0] ^Bu/bu<det><dem>/bu<prn><dem><nom>/bu<prn><dem><nom>+i<cop><aor><p3><sg>$ ^günlerde/*günlerde$.
+[/3AIZDK-Bjrwv]
+[3AyypWQ8ntF0#0] ^Türktüyse/*Türktüyse$.
+[/3AyypWQ8ntF0]
+[3GBLdY1Pa7IT#0] ^Türk/*Türk$ ^imişse/*imişse$.
+[/3GBLdY1Pa7IT]
+[3RpeE6GtJ1tx#0] ^Gelmemiş/*Gelmemiş$ ^imişim/i<cop><dub><aor><p1><sg>$.
+[/3RpeE6GtJ1tx]
+[3X9ZmuOMX3b2#0] ^Bir/*Bir$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^adam/*adam$.
+[/3X9ZmuOMX3b2]
+[3jGJrKlxlZ1g#0] ^Geleyim/*Geleyim$ ^mi/*mi$?
+[/3jGJrKlxlZ1g]
+[3ngmm-HtkJSD#0] ^Türkse/*Türkse$.
+[/3ngmm-HtkJSD]
+[3tULFkxxL4ii#0] ^Gelmemiş/*Gelmemiş$ ^miydik/*miydik$?
+[/3tULFkxxL4ii]
+[44stZXVDVxsi#0] ^Türk/*Türk$ ^ümüş/*ümüş$.
+[/44stZXVDVxsi]
+[47qrw930vo4y#0] ^Elma/*Elma$ ^kadar/*kadar$ ^bir/*bir$ ^şey/*şey$.
+[/47qrw930vo4y]
+[4E-i7eVzBVR9#0] ^Gelecek/*Gelecek$.
+[/4E-i7eVzBVR9]
+[4TNKqVNztG3U#0] ^Sabah/sabah<n><nom>/sabah<n><attr>/sabah<n><nom>+i<cop><aor><p3><sg>$ ^olunca/*olunca$ ^yola/*yola$ ^çıktık/*çıktık$.
+[/4TNKqVNztG3U]
+[4aldk_-ZMNyS#0] ^Gelmeliymişim/*Gelmeliymişim$.
+[/4aldk_-ZMNyS]
+[4goBk1Ju4Mx8#0] ^Gelse/*Gelse$ ^miymişim/*miymişim$.
+[/4goBk1Ju4Mx8]
+[5DDJL5sUk7x4#0] ^Başka/*Başka$ ^memleketlerde/*memleketlerde$ ^kazara/*kazara$ ^ölürler/*ölürler$; ^biz/biz<prn><pers><p1><pl><nom>/biz<prn><pers><p1><pl><nom>+i<cop><aor><p3><sg>$ ^kazara/*kazara$ ^yaşıyoruz/*yaşıyoruz$.
+[/5DDJL5sUk7x4]
+[5JRn0MJOd2TY#0] ^Elli/*Elli$ ^baş/*baş$ ^sığır/*sığır$.
+[/5JRn0MJOd2TY]
+[5_keOe7QgrtC#0] ^Gelecektimse/*Gelecektimse$.
+[/5_keOe7QgrtC]
+[5bDpSWXcqC_6#0] ^Alıyorsam/*Alıyorsam$.
+[/5bDpSWXcqC_6]
+[5bp_cEs7fpYe#0] ^Yan/*Yan$
+[/5bp_cEs7fpYe]
+[5gs4eL9h0AGg#0] ^Geldi/*Geldi$ ^idimse/*idimse$.
+[/5gs4eL9h0AGg]
+[5iJcu3kHE-NI#0] ^Lena/*Lena$ ^kadar/*kadar$ ^yap/*yap$.
+[/5iJcu3kHE-NI]
+[63HUxtwQRhnp#0] ^Olur/*Olur$.
+[/63HUxtwQRhnp]
+[6eCQ27VBYXe7#0] ^Almıyordumsa/*Almıyordumsa$.
+[/6eCQ27VBYXe7]
+[6lNt7jGL4IKL#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^çocukları/*çocukları$.
+[/6lNt7jGL4IKL]
+[7UgVp6YKraWk#0] ^Türkmüş/*Türkmüş$.
+[/7UgVp6YKraWk]
+[7_iw0UBq3ao9#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^çocukları/*çocukları$.
+[/7_iw0UBq3ao9]
+[8TPK8d3KxLwC#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^idim/i<cop><ifi><p1><sg>$.
+[/8TPK8d3KxLwC]
+[8UJxDJK5P4cu#0] ^Ona/o<prn><pers><p3><sg><dat>$ ^bir/*bir$ ^mektup/mektup<n><nom>/mektup<n><attr>/mektup<n><nom>+i<cop><aor><p3><sg>$ ^yazmışım/*yazmışım$.
+[/8UJxDJK5P4cu]
+[8iMWugmOJgn-#0] ^Geldi/*Geldi$ ^idiysem/*idiysem$.
+[/8iMWugmOJgn-]
+[9CoLKyL_84D6#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^çocukları/*çocukları$.
+[/9CoLKyL_84D6]
+[9NKlovmLYsYn#0] ^Evdeysem/ev<n><loc>+i<cop><cond><p1><sg>$.
+[/9NKlovmLYsYn]
+[A1FZzLCHz9zc#0] ^Gelmemiş/*Gelmemiş$ ^imişler/i<cop><dub><aor><p3><pl>$ ^mi/*mi$?
+[/A1FZzLCHz9zc]
+[AlHkOCLhgZZV#0] ^Eskiden/*Eskiden$.
+[/AlHkOCLhgZZV]
+[B9u6H_lEoZr_#0] ^Türk/*Türk$ ^ise/*ise$.
+[/B9u6H_lEoZr_]
+[BDEFhLR25WWw#0] ^Her/*Her$ ^zaman/*zaman$.
+[/BDEFhLR25WWw]
+[BJYo4f90nIEG#0] ^Sekiz/*Sekiz$ ^tane/*tane$ ^mendil/*mendil$.
+[/BJYo4f90nIEG]
+[BWwGfMoPrqJz#0] ^Yağmur/*Yağmur$ ^için/*için$ ^sokağa/sokak<n><dat>/sokak<n><dat>+i<cop><aor><p3><sg>$ ^çıkamadım/*çıkamadım$.
+[/BWwGfMoPrqJz]
+[BYz7Yb_ggWZE#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değildimse/*değildimse$.
+[/BYz7Yb_ggWZE]
+[Brwjp5Z5c3ud#0] ^Gelmiş/*Gelmiş$ ^imişsem/*imişsem$.
+[/Brwjp5Z5c3ud]
+[ByVlpZpBEqR4#0] ^Geldiysem/*Geldiysem$.
+[/ByVlpZpBEqR4]
+[CJCz1UrC9D6k#0] ^Ona/o<prn><pers><p3><sg><dat>$ ^bir/*bir$ ^mektup/mektup<n><nom>/mektup<n><attr>/mektup<n><nom>+i<cop><aor><p3><sg>$ ^yazmışımdır/*yazmışımdır$.
+[/CJCz1UrC9D6k]
+[CVQV_1Ji2gQJ#0] ^Bu/bu<det><dem>/bu<prn><dem><nom>/bu<prn><dem><nom>+i<cop><aor><p3><sg>$ ^bir/*bir$ ^kitap/kitap<n><nom>/kitap<n><attr>/kitap<n><nom>+i<cop><aor><p3><sg>$.
+[/CVQV_1Ji2gQJ]
+[CeiBGWGGIK8Y#0] ^Kar/*Kar$ ^yağmiş/*yağmiş$.
+[/CeiBGWGGIK8Y]
+[CjEyuCRlWV-b#0] ^Arkadaşım/arkadaş<n><nom>+i<cop><aor><p1><sg>/arkadaş<n><px1sg><nom>/arkadaş<n><px1sg><nom>+i<cop><aor><p3><sg>$ ^beni/ben<prn><pers><p1><sg><acc>$ ^bekliyormuş/*bekliyormuş$.
+[/CjEyuCRlWV-b]
+[CqruquIXcpVu#0] ^Alıyor/*Alıyor$ ^idiysem/*idiysem$.
+[/CqruquIXcpVu]
+[D0lotButrTdc#0] ^Gelecek/*Gelecek$ ^imişsem/*imişsem$.
+[/D0lotButrTdc]
+[D1bt_cNF-txv#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^idiysem/*idiysem$.
+[/D1bt_cNF-txv]
+[DigygAGR4TX9#0] ^Gelmeliyim/*Gelmeliyim$.
+[/DigygAGR4TX9]
+[DmHTbeLEXz1v#0] ^Evdeymişim/ev<n><loc>+i<cop><dub><aor><p1><sg>$.
+[/DmHTbeLEXz1v]
+[Du7cJ3l4LwJB#0] ^Gelseymişim/*Gelseymişim$.
+[/Du7cJ3l4LwJB]
+[ELUK_q2jDxiJ#0] ^Gelseydim/*Gelseydim$.
+[/ELUK_q2jDxiJ]
+[EanjLd1Uuivo#0] ^Şairimdir/*Şairimdir$.
+[/EanjLd1Uuivo]
+[EdGIZ-zYPNV8#0] ^Gelmezdim/*Gelmezdim$.
+[/EdGIZ-zYPNV8]
+[EkYNYXQmQJ-t#0] ^Evdeyim/ev<n><loc>+i<cop><aor><p1><sg>$.
+[/EkYNYXQmQJ-t]
+[F70jWzrBJFOC#0] ^Gelmiş/*Gelmiş$ ^idiysem/*idiysem$.
+[/F70jWzrBJFOC]
+[F8smOYbRuUg6#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^çocukları/*çocukları$.
+[/F8smOYbRuUg6]
+[F9Azn96yapnu#0] ^Hazırım/*Hazırım$.
+[/F9Azn96yapnu]
+[FA6b3iz3Db7q#0] ^Geldimse/*Geldimse$.
+[/FA6b3iz3Db7q]
+[FTFE-aAL8HsF#0] ^Almıyordum/*Almıyordum$.
+[/FTFE-aAL8HsF]
+[FZAnCOvxSpPF#0] ^Gelecekmişim/*Gelecekmişim$.
+[/FZAnCOvxSpPF]
+[FcgWTBjJT43t#0] ^Ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^köydeyken/köy<n><loc>+i<cop><gna_ken>$ ^anneme/anne<n><px1sg><dat>/anne<n><px1sg><dat>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^yardım/*yardım$ ^ettim/*ettim$.
+[/FcgWTBjJT43t]
+[FdPetExX9o1i#0] ^Gelmesi/*Gelmesi$ ^gerekecek/*gerekecek$.
+[/FdPetExX9o1i]
+[FjPTzA-pQLZ0#0] ^Gelmeseymişim/*Gelmeseymişim$.
+[/FjPTzA-pQLZ0]
+[Fqc8DJ2c8KUW#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^çocuğu/*çocuğu$.
+[/Fqc8DJ2c8KUW]
+[GA28I8gCtWP5#0] ^Almıyor/*Almıyor$ ^muyum/*muyum$?
+[/GA28I8gCtWP5]
+[GJ8w80oI2onz#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değilim/*değilim$.
+[/GJ8w80oI2onz]
+[GRM4A-PwIBr8#0] ^Alıyormuşsam/*Alıyormuşsam$.
+[/GRM4A-PwIBr8]
+[GS_qmmt3yugy#0] ^Geleymişim/*Geleymişim$.
+[/GS_qmmt3yugy]
+[GczzoqXoTurS#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^isem/*isem$.
+[/GczzoqXoTurS]
+[GwmwVfogaqWO#0] ^Aziz/*Aziz$’^i/*i$ ^görmek/*görmek$ ^için/*için$ ^geldik/*geldik$.
+[/GwmwVfogaqWO]
+[GzEtqhtF4FN2#0] ^Buraya/*Buraya$ ^gelirken/*gelirken$ ^bir/*bir$ ^şey/*şey$ ^gördün/*gördün$ ^mü/*mü$?
+[/GzEtqhtF4FN2]
+[H3NtUNDfcFAP#0] ^Çoktan/*Çoktan$ ^beri/*beri$.
+[/H3NtUNDfcFAP]
+[HRhfMnGTUOWP#0] ^Sabahtan/sabah<n><abl>/sabah<n><abl>+i<cop><aor><p3><sg>$ ^beri/*beri$ ^oynuyorduk/*oynuyorduk$.
+[/HRhfMnGTUOWP]
+[HeZhKtkGDE7C#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^imişsem/*imişsem$.
+[/HeZhKtkGDE7C]
+[HlbKt55bLW1h#0] ^Şehre/şehir<n><dat>/şehir<n><dat>+i<cop><aor><p3><sg>$ ^saat/*saat$ ^10/*10$'^da/*da$ ^varmiştik/*varmiştik$, ^bürosuna/*bürosuna$ ^saat/*saat$ ^3/*3$'^te/*te$ ^gittik/*gittik$.
+[/HlbKt55bLW1h]
+[Hoz0gOFNUH7y#0] ^Evde mi/ev<n><loc>+mı<qst>/ev<n><loc>+mı<qst>+i<cop><aor><p3><sg>$ ^idim/i<cop><ifi><p1><sg>$?
+[/Hoz0gOFNUH7y]
+[HplqIVsCpW7l#0] ^Aniden/*Aniden$.
+[/HplqIVsCpW7l]
+[Hxx1G3Zju06b#0] ^Alıyorduysam/*Alıyorduysam$.
+[/Hxx1G3Zju06b]
+[IDuWpgFTlb7_#0] ^Gelmedi/*Gelmedi$ ^miydim/*miydim$?
+[/IDuWpgFTlb7_]
+[Io1Sls_TD92b#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^isem/*isem$.
+[/Io1Sls_TD92b]
+[Ixb7EfXKhakV#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^gibi/*gibi$ ^yap/*yap$.
+[/Ixb7EfXKhakV]
+[J7a1UXOzfFD4#0] ^Almıyormuşsam/*Almıyormuşsam$.
+[/J7a1UXOzfFD4]
+[JL10JyNACDL6#0] ^Benden/ben<prn><pers><p1><sg><abl>$ ^başka/*başka$
+[/JL10JyNACDL6]
+[JPfVFS7hUaNM#0] ^Bu/bu<det><dem>/bu<prn><dem><nom>/bu<prn><dem><nom>+i<cop><aor><p3><sg>$ ^yazıya/*yazıya$ ^Bakan/*Bakan$ ^kızmasın/*kızmasın$ ^da/*da$, ^kim/*kim$ ^kızsındı/*kızsındı$?
+[/JPfVFS7hUaNM]
+[JUHfrJ4cpHfg#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değilmişsem/*değilmişsem$.
+[/JUHfrJ4cpHfg]
+[JdDyEhiNdXeO#0] ^Alıyordum/*Alıyordum$.
+[/JdDyEhiNdXeO]
+[Ji2apMV8J-N9#0] ^Evde miyim/ev<n><loc>+mı<qst>+i<cop><aor><p1><sg>$?
+[/Ji2apMV8J-N9]
+[JtBxpPgPsbtx#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^çocukları/*çocukları$.
+[/JtBxpPgPsbtx]
+[Jtmb9VjblHqO#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değildim/*değildim$.
+[/Jtmb9VjblHqO]
+[KGU-Z2KUNlRa#0] ^Gelmesem/*Gelmesem$.
+[/KGU-Z2KUNlRa]
+[KNOGmZrcV5ZQ#0] ^Havasına/hava<n><px3sp><dat>/hava<n><px3sp><dat>+i<cop><aor><p3><sg>$ ^göre/*göre$.
+[/KNOGmZrcV5ZQ]
+[KUViv1bEeJFk#0] ^Beş/*Beş$ ^ev/ev<n><nom>/ev<n><attr>/ev<n><nom>+i<cop><aor><p3><sg>$.
+[/KUViv1bEeJFk]
+[KXe5Wc6kls0E#0] ^Alıyordumsa/*Alıyordumsa$.
+[/KXe5Wc6kls0E]
+[K_UFxE2eYGjo#0] ^ne/*ne$ ^tür/*tür$
+[/K_UFxE2eYGjo]
+[KhGXe0f-D_CP#0] ^Çocuk/*Çocuk$ ^derse/*derse$ ^geldiği/*geldiği$ ^halde/*halde$ ^hazır/*hazır$ ^değildi/*değildi$.
+[/KhGXe0f-D_CP]
+[LHw6CoFVgI5p#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^miydim/*miydim$?
+[/LHw6CoFVgI5p]
+[LLuk3JW3ju7F#0] ^Gelir/*Gelir$ ^idiysem/*idiysem$.
+[/LLuk3JW3ju7F]
+[LR950Vwj6hUe#0] ^Gelir/*Gelir$ ^imişsem/*imişsem$.
+[/LR950Vwj6hUe]
+[LW6iO_ZBSp0X#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^ve/ve<cnjcoo>$ ^uzun/*uzun$ ^boylu/*boylu$ ^çocukları/*çocukları$.
+[/LW6iO_ZBSp0X]
+[LwShhDwvnKFY#0] ^Olmyıası/*Olmyıası$.
+[/LwShhDwvnKFY]
+[M34IFe1VXiNB#0] ^Gelmese/*Gelmese$ ^miymişim/*miymişim$.
+[/M34IFe1VXiNB]
+[MFlmkDr3aNRl#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değilmişim/*değilmişim$.
+[/MFlmkDr3aNRl]
+[MNnsN1sv0Gzj#0] ^Geleyim/*Geleyim$.
+[/MNnsN1sv0Gzj]
+[McYzPwN6jaeD#0] ^Annem/anne<n><px1sg><nom>/anne<n><px1sg><nom>+i<cop><aor><p3><sg>$ ^telefon/*telefon$ ^etmedikçe/*etmedikçe$ ^evden/ev<n><abl>/ev<n><abl>+i<cop><aor><p3><sg>$ ^çıkmam/*çıkmam$.
+[/McYzPwN6jaeD]
+[Mhd6l5_HnWlh#0] ^Yedide/*Yedide$ ^dört/*dört$.
+[/Mhd6l5_HnWlh]
+[O3BLn5gKNT-C#0] ^Gelecektiysem/*Gelecektiysem$.
+[/O3BLn5gKNT-C]
+[OLOmNac4DoUA#0] ^Üçte/*Üçte$ ^bir/*bir$.
+[/OLOmNac4DoUA]
+[OWuv-nGGg_Ug#0] ^Türk/*Türk$ ^idiyse/*idiyse$.
+[/OWuv-nGGg_Ug]
+[OYafk2buOw9e#0] ^Almıyor/*Almıyor$ ^imişsem/*imişsem$.
+[/OYafk2buOw9e]
+[PD1_XMRZ_X2e#0] ^Gelsem/*Gelsem$.
+[/PD1_XMRZ_X2e]
+[PSi6Y-jkFds2#0] ^Daha/*Daha$ ^kötü/*kötü$.
+[/PSi6Y-jkFds2]
+[QGHKuGbNcmGI#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^kadar/*kadar$ ^yap/*yap$.
+[/QGHKuGbNcmGI]
+[QGsDcKILYYB-#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^fikrine/*fikrine$ ^göre/*göre$...
+[/QGsDcKILYYB-]
+[QifzTMgsQjcr#0] ^İşimizi/iş<n><px1pl><acc>$ ^bitirip/*bitirip$ ^sinemaya/*sinemaya$ ^gittik/*gittik$.
+[/QifzTMgsQjcr]
+[RFH79cXPFto_#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^idiysem/*idiysem$.
+[/RFH79cXPFto_]
+[RIZ6Wb_HZVFC#0] ^Almıyorsam/*Almıyorsam$.
+[/RIZ6Wb_HZVFC]
+[RLYDUMCz973V#0] ^Gelmeseydim/*Gelmeseydim$.
+[/RLYDUMCz973V]
+[RRrPoEcVF2RF#0] ^Almıyor/*Almıyor$ ^muymuşum/*muymuşum$?
+[/RRrPoEcVF2RF]
+[RwNqYrs6OEIJ#0] ^Gelmişmişim/*Gelmişmişim$.
+[/RwNqYrs6OEIJ]
+[Rxv5Fk2lKhdo#0] ^Ali/*Ali$ ^bahçede/*bahçede$ ^oynadığı/*oynadığı$ ^zaman/*zaman$ ^kardeşi/*kardeşi$ ^evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^derslere/*derslere$ ^ҫalışıyor/*ҫalışıyor$.
+[/Rxv5Fk2lKhdo]
+[SFXBzajA_szJ#0] ^Gele/*Gele$ ^mi/*mi$?
+[/SFXBzajA_szJ]
+[SyRP3x-VrAhh#0] ^Bileydim/*Bileydim$ ^buraya/*buraya$ ^kadar/*kadar$ ^gelmezdim/*gelmezdim$.
+[/SyRP3x-VrAhh]
+[T66pUw8V9rWn#0] ^Gelmem/*Gelmem$.
+[/T66pUw8V9rWn]
+[TGk9F4GG247O#0] ^Yarın/*Yarın$ ^gelirım/*gelirım$.
+[/TGk9F4GG247O]
+[TOQ_F4QZYr69#0] ^Geldimdi/*Geldimdi$.
+[/TOQ_F4QZYr69]
+[ThgKlEsxE8MV#0] ^Daha/*Daha$ ^iyi/*iyi$.
+[/ThgKlEsxE8MV]
+[U3vJQbAtDWDy#0] ^Gelirdim/*Gelirdim$.
+[/U3vJQbAtDWDy]
+[U64Uuon-1uDw#0] ^Geldiydim/*Geldiydim$.
+[/U64Uuon-1uDw]
+[UCysrTbD0fVr#0] ^Bu/bu<det><dem>/bu<prn><dem><nom>/bu<prn><dem><nom>+i<cop><aor><p3><sg>$ ^kitabı/kitap<n><acc>/kitap<n><px3sp><nom>/kitap<n><px3sp><nom>+i<cop><aor><p3><sg>$ ^senin/sen<prn><pers><p2><sg><gen>/sen<prn><pers><p2><sg><gen>+i<cop><aor><p3><sg>$ ^için/*için$ ^aldım/*aldım$.
+[/UCysrTbD0fVr]
+[UJv30gsNXTLM#0] ^Arkadaşım/arkadaş<n><nom>+i<cop><aor><p1><sg>/arkadaş<n><px1sg><nom>/arkadaş<n><px1sg><nom>+i<cop><aor><p3><sg>$ ^beni/ben<prn><pers><p1><sg><acc>$ ^bekliyordur/*bekliyordur$.
+[/UJv30gsNXTLM]
+[UUp4FhuX5nVj#0] ^Otobüse/*Otobüse$ ^binerek/*binerek$ ^eve/ev<n><dat>/ev<n><dat>+i<cop><aor><p3><sg>$ ^gittim/*gittim$.
+[/UUp4FhuX5nVj]
+[UtjNd76Ra2il#0] ^Gelmesem/*Gelmesem$ ^miymişi/*miymişi$.
+[/UtjNd76Ra2il]
+[UtjuKaf9vRpk#0] ^Evde miydim/ev<n><loc>+mı<qst>+i<cop><ifi><p1><sg>$?
+[/UtjuKaf9vRpk]
+[VBXQSg44n0P1#0] ^Uzun/*Uzun$ ^kız/*kız$.
+[/VBXQSg44n0P1]
+[VG0St--euvku#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^gizli/*gizli$ ^fikirlerini/*fikirlerini$ ^halk/*halk$ ^ne/*ne$ ^bilsindi/*bilsindi$?
+[/VG0St--euvku]
+[VG5-JzBxzmm7#0] ^Beş/*Beş$ ^tane/*tane$ ^anahtar/*anahtar$.
+[/VG5-JzBxzmm7]
+[VXEnkadA-gfH#0] ^Yorganına/*Yorganına$ ^göre/*göre$ ^ayağını/*ayağını$ ^uzat/*uzat$.
+[/VXEnkadA-gfH]
+[VcGROriLRArz#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^ve/ve<cnjcoo>$ ^uzun/*uzun$ ^boylu/*boylu$ ^çocuğu/*çocuğu$.
+[/VcGROriLRArz]
+[VmZ62ByU_oQN#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^idim/i<cop><ifi><p1><sg>$.
+[/VmZ62ByU_oQN]
+[WH3FAundeTOk#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değilsem/*değilsem$.
+[/WH3FAundeTOk]
+[WOM6w-XCwOlD#0] ^Orta/*Orta$ ^okulu/okul<n><acc>/okul<n><px3sp><nom>/okul<n><px3sp><nom>+i<cop><aor><p3><sg>$ ^bitirdikten/*bitirdikten$ ^sonra/*sonra$ ^enstitüye/*enstitüye$ ^gireceğim/*gireceğim$.
+[/WOM6w-XCwOlD]
+[Wf3_gN3NpvOa#0] ^Geldi/*Geldi$ ^miydim/*miydim$?
+[/Wf3_gN3NpvOa]
+[WxWIjLwNOIys#0] ^Gelmeli/*Gelmeli$ ^idim/i<cop><ifi><p1><sg>$.
+[/WxWIjLwNOIys]
+[XH5z36TH7bBd#0] ^Gelmişim/*Gelmişim$.
+[/XH5z36TH7bBd]
+[XSJ5JGqGzGPJ#0] ^Gelmiştir/*Gelmiştir$.
+[/XSJ5JGqGzGPJ]
+[XYG8bHt2dDhX#0] ^Gelmişsem/*Gelmişsem$.
+[/XYG8bHt2dDhX]
+[XgJLTJEtbH8s#0] ^Gelmiş/*Gelmiş$ ^miydik/*miydik$?
+[/XgJLTJEtbH8s]
+[Y88UdJ2y9v4L#0] ^Gelecek/*Gelecek$ ^miydim/*miydim$?
+[/Y88UdJ2y9v4L]
+[YSF6zYWS3TVF#0] ^Kitaplıktaki/*Kitaplıktaki$ ^kitapın/*kitapın$ ^yeri/*yeri$
+[/YSF6zYWS3TVF]
+[YfNcl8ZRo27X#0] ^Türk/*Türk$ ^müyüm/*müyüm$?
+[/YfNcl8ZRo27X]
+[Yfk1TDHEO-0r#0] ^Gelmemeliydim/*Gelmemeliydim$.
+[/Yfk1TDHEO-0r]
+[ZAJVgFilnGM7#0] ^Gelsem/*Gelsem$ ^miymişi/*miymişi$.
+[/ZAJVgFilnGM7]
+[ZFkUReVU0RjL#0] ^Çuvaşistan/*Çuvaşistan$ ^Özerk/*Özerk$ ^Sovyet/*Sovyet$ ^Sosyalist/*Sosyalist$ ^Cumhuriyeti/*Cumhuriyeti$.
+[/ZFkUReVU0RjL]
+[Zw3LZkhJqTjw#0] ^Gelmiş/*Gelmiş$ ^imişim/i<cop><dub><aor><p1><sg>$.
+[/Zw3LZkhJqTjw]
+[ZxdsljsuzDa3#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^mi/*mi$ ^idim/i<cop><ifi><p1><sg>$?
+[/ZxdsljsuzDa3]
+[_IpB_R9hhJ_g#0] ^Alıyor/*Alıyor$ ^imişsem/*imişsem$.
+[/_IpB_R9hhJ_g]
+[a43SvwQqQFnv#0] ^Gelmiyecek/*Gelmiyecek$.
+[/a43SvwQqQFnv]
+[aYzP2ukA-hG_#0] ^Gelmiyeyim/*Gelmiyeyim$ ^mi/*mi$?
+[/aYzP2ukA-hG_]
+[ahduny0LT_oa#0] ^Kalemsizler/*Kalemsizler$.
+[/ahduny0LT_oa]
+[bxzaE0oOOfH0#0] ^Arkadaşım/arkadaş<n><nom>+i<cop><aor><p1><sg>/arkadaş<n><px1sg><nom>/arkadaş<n><px1sg><nom>+i<cop><aor><p3><sg>$ ^beni/ben<prn><pers><p1><sg><acc>$ ^bekliyor/*bekliyor$.
+[/bxzaE0oOOfH0]
+[c1-vrZieQMuu#0] ^Gelmeliydim/*Gelmeliydim$.
+[/c1-vrZieQMuu]
+[c8uqJDU2ASbe#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^ve/ve<cnjcoo>$ ^uzun/*uzun$ ^boylu/*boylu$ ^çocukları/*çocukları$.
+[/c8uqJDU2ASbe]
+[cqGFjdszxmrS#0] ^Yüzde/*Yüzde$ ^yirmi/*yirmi$ ^beş/*beş$.
+[/cqGFjdszxmrS]
+[d6mqwZS0LGMi#0] ^Olur/*Olur$ ^mu/*mu$?
+[/d6mqwZS0LGMi]
+[dBQIcSycNhF5#0] ^Yirmi/*Yirmi$ ^masa/masa<n><nom>/masa<n><attr>/masa<n><nom>+i<cop><aor><p3><sg>$.
+[/dBQIcSycNhF5]
+[dDuQF__sfirE#0] ^Babası/baba<n><px3sp><nom>/baba<n><px3sp><nom>+i<cop><aor><p3><sg>$ ^evden/ev<n><abl>/ev<n><abl>+i<cop><aor><p3><sg>$ ^çıkar/*çıkar$ ^çıkmaz/*çıkmaz$ ^kızı/*kızı$ ^ağlamaya/*ağlamaya$ ^başladı/*başladı$.
+[/dDuQF__sfirE]
+[dM5n_XUUdW2P#0] ^Gelmez/*Gelmez$ ^miyim/*miyim$?
+[/dM5n_XUUdW2P]
+[e-Isce8Yor3G#0] ^Gelecek/*Gelecek$ ^imişim/i<cop><dub><aor><p1><sg>$.
+[/e-Isce8Yor3G]
+[e_K31eRRuNd_#0] ^Ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^sadece/*sadece$ ^bunu/bu<prn><dem><acc>/bu<prn><dem><px3sp><nom>/bu<prn><dem><px3sp><nom>+i<cop><aor><p3><sg>$ ^söylemek/*söylemek$ ^isterdim/*isterdim$.
+[/e_K31eRRuNd_]
+[eg_Hn5IlUeoH#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değildiysem/*değildiysem$.
+[/eg_Hn5IlUeoH]
+[fRNm3lMgWwdz#0] ^Geleceğim/*Geleceğim$.
+[/fRNm3lMgWwdz]
+[fWoJ9povOlNF#0] ^Gelmemiz/*Gelmemiz$ ^gerektiyse/*gerektiyse$.
+[/fWoJ9povOlNF]
+[fmilhGt7aySC#0] ^Evdeydimse/*Evdeydimse$.
+[/fmilhGt7aySC]
+[guQH91H1-YEn#0] ^Gelmemişim/*Gelmemişim$.
+[/guQH91H1-YEn]
+[h-LjADa4SMUh#0] ^Ne/*Ne$ … ^ne/*ne$
+[/h-LjADa4SMUh]
+[hJ9pNAShTj48#0] ^Köprüye/*Köprüye$ ^doğru/*doğru$ ^gidiyoruz/*gidiyoruz$.
+[/hJ9pNAShTj48]
+[h_FvKNR5cZX0#0] ^Almıyormuşum/*Almıyormuşum$.
+[/h_FvKNR5cZX0]
+[hfCN4_tuZi9B#0] ^Hem/*Hem$ ^Rusça/*Rusça$, ^hem/*hem$ ^Çuvaşca/*Çuvaşca$.
+[/hfCN4_tuZi9B]
+[hhCDNF7UTA5q#0] ^Eve mi/ev<n><dat>+mı<qst>/ev<n><dat>+mı<qst>+i<cop><aor><p3><sg>$ ^ola/*ola$?
+[/hhCDNF7UTA5q]
+[hvNbIk56vqu1#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^ve/ve<cnjcoo>$ ^uzun/*uzun$ ^boylu/*boylu$ ^çocuğu/*çocuğu$.
+[/hvNbIk56vqu1]
+[iFSRhmJpndZW#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^imişim/i<cop><dub><aor><p1><sg>$.
+[/iFSRhmJpndZW]
+[iL2p4B_OFOls#0] ^En/*En$ ^güzel/*güzel$.
+[/iL2p4B_OFOls]
+[iNd-vn4pPOLK#0] ^Alıyormuşum/*Alıyormuşum$.
+[/iNd-vn4pPOLK]
+[i_xTG-eZlbfK#0] ^Bir/*Bir$ ^şey/*şey$ ^söylemeden/*söylemeden$ ^gitti/*gitti$.
+[/i_xTG-eZlbfK]
+[jL-Kdris605_#0] ^Okumuşsunuzdur/*Okumuşsunuzdur$.
+[/jL-Kdris605_]
+[k94JZPcY0PV7#0] ^Geleydim/*Geleydim$.
+[/k94JZPcY0PV7]
+[kRqWIzQk-F0o#0] ^Okumuşsunuz/*Okumuşsunuz$.
+[/kRqWIzQk-F0o]
+[kt8Ts5ZeOD09#0] ^Gelmemeliyim/*Gelmemeliyim$.
+[/kt8Ts5ZeOD09]
+[kumxkz4Pt_G4#0] ^Devamlı/*Devamlı$ ^olarak/*olarak$.
+[/kumxkz4Pt_G4]
+[l1DCnAgJ7Pfd#0] ^Öğretmen/*Öğretmen$ ^anlattıkça/*anlattıkça$ ^merakımız/*merakımız$ ^atıyordu/*atıyordu$.
+[/l1DCnAgJ7Pfd]
+[l5_Ys6AV0l3y#0] ^Gelmemeli/*Gelmemeli$ ^idim/i<cop><ifi><p1><sg>$.
+[/l5_Ys6AV0l3y]
+[lECOaIWWrmyu#0] ^Gelmeli/*Gelmeli$ ^miydiniz/*miydiniz$?
+[/lECOaIWWrmyu]
+[lL2Y2K0d-MlZ#0] ^Esma/*Esma$ ^girer/*girer$, ^oturur/*oturur$.
+[/lL2Y2K0d-MlZ]
+[lxHoNO1eov3F#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^çocuğu/*çocuğu$.
+[/lxHoNO1eov3F]
+[mDxqh1U1vC14#0] ^Evdeydim/ev<n><loc>+i<cop><ifi><p1><sg>$.
+[/mDxqh1U1vC14]
+[mN8zl9vN_-wj#0] ^Gelmeli/*Gelmeli$ ^idim/i<cop><ifi><p1><sg>$?
+[/mN8zl9vN_-wj]
+[mNLefdp_5GoI#0] ^Geldim/*Geldim$ ^mi/*mi$?
+[/mNLefdp_5GoI]
+[mRWlA0BQXS21#0] ^Kör/*Kör$ ^olası/*olası$.
+[/mRWlA0BQXS21]
+[mV8wuYDQepR6#0] ^Ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^yalnız/*yalnız$ ^oturuyorum/*oturuyorum$.
+[/mV8wuYDQepR6]
+[mdJuBk0vIDvO#0] ^Türküm/*Türküm$.
+[/mdJuBk0vIDvO]
+[mlW_g7hE6DVG#0] ^Gelmemeliymişim/*Gelmemeliymişim$.
+[/mlW_g7hE6DVG]
+[mwHc9BKJkapy#0] ^Evde/ev<n><loc>/ev<n><loc>+i<cop><aor><p3><sg>$ ^değil/*değil$ ^imişseim/*imişseim$.
+[/mwHc9BKJkapy]
+[n8zzsEMGh6fm#0] ^Gelme/*Gelme$!
+[/n8zzsEMGh6fm]
+[nRmB9ZrLuuBd#0] ^Alıyor/*Alıyor$ ^muydum/*muydum$?
+[/nRmB9ZrLuuBd]
+[ngcxx6w4LrX1#0] -^da/*da$, -^de/*de$
+[/ngcxx6w4LrX1]
+[nuhSYW75Otp2#0] ^Alıyor/*Alıyor$ ^muymuşum/*muymuşum$?
+[/nuhSYW75Otp2]
+[o1LdWRlIu4KT#0] ^Gelecektir/*Gelecektir$.
+[/o1LdWRlIu4KT]
+[oTeVJXm2rs1v#0] ^Eve/ev<n><dat>/ev<n><dat>+i<cop><aor><p3><sg>$ ^girmeden/*girmeden$ ^önce/*önce$ ^mağazaya/*mağazaya$ ^gittim/*gittim$.
+[/oTeVJXm2rs1v]
+[p3D21to4IXAb#0] ^Gel/*Gel$!
+[/p3D21to4IXAb]
+[p4V8-4AFSp5D#0] ^Yüz/*Yüz$ ^baş/*baş$ ^koyun/*koyun$.
+[/p4V8-4AFSp5D]
+[pKSz2RJei-8X#0] ^Gelmekteydim/*Gelmekteydim$.
+[/pKSz2RJei-8X]
+[pXGL1RVl4l0H#0] ^Geldim/*Geldim$ ^miydi/*miydi$?
+[/pXGL1RVl4l0H]
+[pjZj3QmXnkQO#0] ^Almakta/*Almakta$ ^değildim/*değildim$.
+[/pjZj3QmXnkQO]
+[pnbc01KlbVOA#0] ^Gelmem/*Gelmem$ ^gerekirse/*gerekirse$.
+[/pnbc01KlbVOA]
+[q04pHzdI6RS9#0] ^Olmaz/*Olmaz$.
+[/q04pHzdI6RS9]
+[qVdHGzSsEmxr#0] -^e/*e$ ^rağmen/*rağmen$
+[/qVdHGzSsEmxr]
+[qiy2zhv0meoL#0] ^Gelecek/*Gelecek$ ^idiysem/*idiysem$.
+[/qiy2zhv0meoL]
+[qvqGSNGbFn2L#0] ^Çünkü/*Çünkü$
+[/qvqGSNGbFn2L]
+[r5VLvgUENPB4#0] ^Gelecektim/*Gelecektim$.
+[/r5VLvgUENPB4]
+[rTjp20Oj3OGD#0] ^Ali/*Ali$ ^çalışırken/*çalışırken$ ^konuşmaz/*konuşmaz$.
+[/rTjp20Oj3OGD]
+[sGMCPrkG8pMw#0] ^Gelmedim/*Gelmedim$ ^miydi/*miydi$?
+[/sGMCPrkG8pMw]
+[soTtgnzPCPgY#0] ^Hava/hava<n><nom>/hava<n><attr>/hava<n><nom>+i<cop><aor><p3><sg>$ ^sıcakken/*sıcakken$ ^biz/biz<prn><pers><p1><pl><nom>/biz<prn><pers><p1><pl><nom>+i<cop><aor><p3><sg>$ ^her/*her$ ^zaman/*zaman$ ^Volga/*Volga$ ^yanına/*yanına$ ^gidiyorduk/*gidiyorduk$.
+[/soTtgnzPCPgY]
+[syYVjT29EQK4#0] ^Gelirdiysem/*Gelirdiysem$.
+[/syYVjT29EQK4]
+[t8_8iIp9DP96#0] ^Almıyorduysam/*Almıyorduysam$.
+[/t8_8iIp9DP96]
+[tHkunx7-nKeR#0] ^Almıyor/*Almıyor$ ^muydum/*muydum$?
+[/tHkunx7-nKeR]
+[tQWYBfTEp8j7#0] ^Gelir/*Gelir$ ^miydim/*miydim$?
+[/tQWYBfTEp8j7]
+[tQaLllUt5n1M#0] ^Onu/o<prn><pers><p3><sg><acc>$ ^akşama/*akşama$ ^kadar/*kadar$ ^bekledik/*bekledik$.
+[/tQaLllUt5n1M]
+[uE4czNhLrYl6#0] ^Taş/*Taş$ ^köprü/*köprü$.
+[/uE4czNhLrYl6]
+[uLCXp5iJb_3b#0] ^Babam/baba<n><px1sg><nom>/baba<n><px1sg><nom>+i<cop><aor><p3><sg>$ ^dede/*dede$ ^ki/*ki$, ^yarın/*yarın$ ^bize/biz<prn><pers><p1><pl><dat>$ ^gelesiniz/*gelesiniz$.
+[/uLCXp5iJb_3b]
+[uYeLHOl0qZFf#0] ^Türkmüşse/*Türkmüşse$.
+[/uYeLHOl0qZFf]
+[uZcS579UN8SH#0] ^Gelmemeli/*Gelmemeli$ ^miydik/*miydik$?
+[/uZcS579UN8SH]
+[upCjEBda4AQV#0] ^Gelirsem/*Gelirsem$.
+[/upCjEBda4AQV]
+[utDA5weSAiM-#0] ^Almıyor/*Almıyor$ ^idiysem/*idiysem$.
+[/utDA5weSAiM-]
+[vAYuMycOu6KH#0] ^Onun/o<prn><pers><p3><sg><gen>/o<prn><pers><p3><sg><gen>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^ve/ve<cnjcoo>$ ^uzun/*uzun$ ^boylu/*boylu$ ^çocukları/*çocukları$.
+[/vAYuMycOu6KH]
+[vCYWJ-sGNqLH#0] ^Gelse/*Gelse$ ^imişim/i<cop><dub><aor><p1><sg>$.
+[/vCYWJ-sGNqLH]
+[vKsM34sbbeNw#0] -^e/*e$ ^doğru/*doğru$
+[/vKsM34sbbeNw]
+[vP6rkhTu0vVs#0] ^Anna/*Anna$ ^müdürken/*müdürken$ ^okulda/okul<n><loc>/okul<n><loc>+i<cop><aor><p3><sg>$ ^çocuk/*çocuk$ ^çoktu/çok<adv>+i<cop><ifi><p3><sg>$.
+[/vP6rkhTu0vVs]
+[vS6PAtqq3GD4#0] ^Beş/*Beş$ ^kilo/*kilo$ ^kadar/*kadar$.
+[/vS6PAtqq3GD4]
+[vqUYd_NzPsxC#0] ^Taraf/*Taraf$.
+[/vqUYd_NzPsxC]
+[wNkm8wVPDvg2#0] ^Buz/*Buz$ ^gibi/*gibi$ ^soğuk/soğuk<n><nom>/soğuk<n><attr>/soğuk<n><nom>+i<cop><aor><p3><sg>$.
+[/wNkm8wVPDvg2]
+[w_WJsxfHJ-6E#0] ^Ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^orada/*orada$ ^iken/i<cop><gna_ken>$ ^yağmur/*yağmur$ ^yağmaya/*yağmaya$ ^başladı/*başladı$.
+[/w_WJsxfHJ-6E]
+[wrZr7KUsjuta#0] ^Bugün/*Bugün$ ^bana/ben<prn><pers><p1><sg><dat>$ ^gelecek/*gelecek$ ^misin/*misin$?
+[/wrZr7KUsjuta]
+[xAr2dGTmTPJw#0] ^Elmasını/*Elmasını$ ^elinde/*elinde$ ^tutamayınca/*tutamayınca$ ^çocuk/*çocuk$ ^bağırdı/*bağırdı$.
+[/xAr2dGTmTPJw]
+[xGlPLpPVxOfV#0] ^O/o<prn><pers><p3><sg><nom>/o<prn><pers><p3><sg><nom>+i<cop><aor><p3><sg>$
+[/xGlPLpPVxOfV]
+[xelJN0vXtB7T#0] ^Gelirmişsem/*Gelirmişsem$.
+[/xelJN0vXtB7T]
+[xkJJJreu6VTt#0] ^Gelecekmişsem/*Gelecekmişsem$.
+[/xkJJJreu6VTt]
+[xpTFsLS_U5Hv#0] ^Gelmiştim/*Gelmiştim$.
+[/xpTFsLS_U5Hv]
+[xuD_5BJDwu3P#0] ^Gece/*Gece$ ^olmayınca/*olmayınca$ ^yıldız/*yıldız$ ^görünmez/*görünmez$.
+[/xuD_5BJDwu3P]
+[xxlQ-wzwrMYP#0] ^Gelmedim/*Gelmedim$ ^mi/*mi$?
+[/xxlQ-wzwrMYP]
+[y1jkYAvwFCy-#0] ^ne/*ne$
+[/y1jkYAvwFCy-]
+[y5oLw2AzE7hU#0] ^Gelirmişim/*Gelirmişim$.
+[/y5oLw2AzE7hU]
+[yD-YdD-5RRIj#0] ^Son/*Son$ ^zamanlarda/*zamanlarda$.
+[/yD-YdD-5RRIj]
+[ygtjpguynG5L#0] ^Gelmiyecek/*Gelmiyecek$ ^miyim/*miyim$?
+[/ygtjpguynG5L]
+[yvxYJ2btFdgC#0] ^Kalemsiz/*Kalemsiz$ ^küçük/*küçük$ ^kız/*kız$.
+[/yvxYJ2btFdgC]
+[z2i2gpoqWtmP#0] ^On/*On$ ^buçuk/*buçuk$ ^kilometre/*kilometre$.
+[/z2i2gpoqWtmP]
+[zVcb7Mu-AxPq#0] ^Türk/*Türk$ ^idi/i<cop><ifi><p3><sg>$.
+[/zVcb7Mu-AxPq]
+[zcfYZ-lsEtnC#0] ^Onların/onlar<prn><pers><p3><pl><gen>/onlar<prn><pers><p3><pl><gen>+i<cop><aor><p3><sg>$ ^güzel/*güzel$ ^çocuğu/*çocuğu$.
+[/zcfYZ-lsEtnC]
+[zdd4-KrzhijY#0] ^Ayşe/*Ayşe$ ^hastalanalı/*hastalanalı$ ^tam/*tam$ ^bir/*bir$ ^sene/*sene$ ^olmuştu/*olmuştu$.
+[/zdd4-KrzhijY]
+[zoxAhV9_qSrA#0] ^Şairim/*Şairim$.
+[/zoxAhV9_qSrA]
+[zx2rYfztOecR#0] ^Ben/ben<prn><pers><p1><sg><nom>/ben<prn><pers><p1><sg><nom>+i<cop><aor><p3><sg>$ ^çocuk/*çocuk$ ^iken/i<cop><gna_ken>$ ^öğrenmeye/*öğrenmeye$ ^çok/çok<adv>/çok<adv><attr>/çok<adv>+i<cop><aor><p3><sg>$ ^seviyordum/*seviyordum$.
+[/zx2rYfztOecR]

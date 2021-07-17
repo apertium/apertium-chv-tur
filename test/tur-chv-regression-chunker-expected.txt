@@ -1,0 +1,66 @@
+[0ca2ICTaNSat#0] ^unknown<unknown>{^*Sarı$}$ ^n<SN><nom>{^чечек<n><nom>$}$.
+[/0ca2ICTaNSat]
+[26wGL5xiE-fJ#0] ^unknown<unknown>{^*Gelmedim$}$.
+[/26wGL5xiE-fJ]
+[3wYfiNYrHKYD#0] ^unknown<unknown>{^*Gelmekteyim$}$.
+[/3wYfiNYrHKYD]
+[4MZd5G5QXCJ2#0] ^unknown<unknown>{^*Daha$}$ ^unknown<unknown>{^*pahalı$}$.
+[/4MZd5G5QXCJ2]
+[5DQ6Xgpkos4m#0] ^unknown<unknown>{^*Gelsin$}$ ^unknown<unknown>{^*mi$}$?
+[/5DQ6Xgpkos4m]
+[6ABAtNCo3ivS#0] ^unknown<unknown>{^*Beyaz$}$ ^unknown<unknown>{^*yumurta$}$.
+[/6ABAtNCo3ivS]
+[97qSqcsp0iC4#0] ^unknown<unknown>{^*Alıyorum$}$.
+[/97qSqcsp0iC4]
+[AP24T1ucaOR2#0] ^pron<SN>{^Эсир<prn><pers><p2><pl><gen>$}$.
+[/AP24T1ucaOR2]
+[DU4gk-hVNbAG#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><nom>$}$.
+[/DU4gk-hVNbAG]
+[EA7zCcgtITTC#0] ^unknown<unknown>{^*Daha$}$ ^unknown<unknown>{^*ağır$}$.
+[/EA7zCcgtITTC]
+[Inej-QTMSGQf#0] ^unknown<unknown>{^*Gelmeli$}$ ^unknown<unknown>{^*mi$}$?
+[/Inej-QTMSGQf]
+[KQ1ijMjb35O6#0] ^unknown<unknown>{^*Almıyorum$}$.
+[/KQ1ijMjb35O6]
+[PrwnGjEDhiOp#0] ^pron<SN>{^Ӑҫта<prn><itg><loc>$}$?
+[/PrwnGjEDhiOp]
+[QnLaG-ogucLR#0] ^unknown<unknown>{^*Neden$}$?
+[/QnLaG-ogucLR]
+[S2BtvtNiXV0s#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><nom>$}$.
+[/S2BtvtNiXV0s]
+[SVGskoAJl1h1#0] ^pron<SN>{^Эсӗ<prn><pers><p2><sg><gen>$}$.
+[/SVGskoAJl1h1]
+[U9LFg0eCGGDK#0] ^pron<SN>{^Эпир<prn><pers><p1><pl><gen>$}$.
+[/U9LFg0eCGGDK]
+[UCRIC3Lyajhd#0] ^pron<SN>{^Эсир<prn><pers><p2><pl><nom>$}$.
+[/UCRIC3Lyajhd]
+[UZJI_9kDTOPS#0] ^pron<SN>{^Ку<prn><dem><nom>$}$
+[/UZJI_9kDTOPS]
+[Z7GtKUjQIoMh#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><nom>$}$.
+[/Z7GtKUjQIoMh]
+[_Bv976KMZ6Gl#0] ^pron<SN>{^Эпӗ<prn><pers><p1><sg><gen>$}$.
+[/_Bv976KMZ6Gl]
+[bntYbh3kFQce#0] ^unknown<unknown>{^*Gelirim$}$.
+[/bntYbh3kFQce]
+[f-k3tzyEm1es#0] ^pron<SN>{^Вӗсем<prn><pers><p3><pl><gen>$}$.
+[/f-k3tzyEm1es]
+[iRMlOiCZrNLr#0] ^unknown<unknown>{^*Kim$}$?
+[/iRMlOiCZrNLr]
+[jPWoYXYbvGsJ#0] ^unknown<unknown>{^*Biliyorsunuz$}$.
+[/jPWoYXYbvGsJ]
+[jd9pFFJMFZp_#0] ^unknown<unknown>{^*En$}$ ^unknown<unknown>{^*iyi$}$.
+[/jd9pFFJMFZp_]
+[k5eW64-8Y5VM#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><gen>$}$.
+[/k5eW64-8Y5VM]
+[nH9gMmCaMERv#0] ^unknown<unknown>{^*Alıyor$}$ ^unknown<unknown>{^*muyum$}$?
+[/nH9gMmCaMERv]
+[qZNfQ19kzVvG#0] ^pron<SN>{^Эсӗ<prn><pers><p2><sg><nom>$}$.
+[/qZNfQ19kzVvG]
+[sqwrv8WfmQN6#0] ^unknown<unknown>{^*Gelmeli$}$.
+[/sqwrv8WfmQN6]
+[tS7ajTO4SXO2#0] ^pron<SN>{^Ҫак<prn><dem><nom>$}$
+[/tS7ajTO4SXO2]
+[vX6g6N3uSp5b#0] ^pron<SN>{^Вӑл<prn><pers><p3><sg><dat>$}$ ^unknown<unknown>{^*bir$}$ ^n<SN><nom>{^ҫыру<n><nom>$}$ ^default<default>{^ӗ<cop><aor><p3><sg>$}$ ^unknown<unknown>{^*yazdım$}$.
+[/vX6g6N3uSp5b]
+[xdiSxau7Y62B#0] ^pron<SN>{^Эпир<prn><pers><p1><pl><nom>$}$.
+[/xdiSxau7Y62B]

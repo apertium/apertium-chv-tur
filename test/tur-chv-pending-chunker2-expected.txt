@@ -1,0 +1,570 @@
+[-AJP-9_StR83#0] ^Кил<n><loc>+ӗ<cop><dub><cond>$.
+[/-AJP-9_StR83]
+[-D_jIgDmhQaJ#0] ^*Almakta$ ^*değilim$.
+[/-D_jIgDmhQaJ]
+[-X9FLzjaFpn2#0] ^*Kalemsiz$ ^*yazıyorum$.
+[/-X9FLzjaFpn2]
+[-d8RWo-OY9Iy#0] ^*Ordaki$.
+[/-d8RWo-OY9Iy]
+[00UzAaZk62vd#0] ^*Rusya$ ^*Sovyet$ ^*Federatif$ ^*Sosyalist$ ^*Cumhuriyeti$.
+[/00UzAaZk62vd]
+[03RVcT9bW3XE#0] ^*Gelecek$ ^*miyim$?
+[/03RVcT9bW3XE]
+[03bxNSIc6L3s#0] ^*Gelmiyecek$ ^*miymişim$?
+[/03bxNSIc6L3s]
+[06-smjGk4Qk-#0] ^Кил<n><loc>$ ^*değil$ ^ӗ<cop><dub><aor><p1><sg>$.
+[/06-smjGk4Qk-]
+[0QuUK0B54Jni#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^питӗ<adv>$ ^*güzel$ ^тата<cnjcoo>$ ^*uzun$ ^*boylu$ ^*çocukları$.
+[/0QuUK0B54Jni]
+[0ciDri7ZJv-i#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^питӗ<adv>$ ^*güzel$ ^*çocukları$.
+[/0ciDri7ZJv-i]
+[0cvs9lp070IC#0] ^*Almıştım$.
+[/0cvs9lp070IC]
+[0dMSit8BftfV#0] ^*Yüzde$ ^*yüz$.
+[/0dMSit8BftfV]
+[0fWMBvuALz7e#0] ^*Geldim$.
+[/0fWMBvuALz7e]
+[0suVHCw3JyLQ#0] ^*Cevdet$ ^*birkaç$ ^*dolar$ ^*için$ ^*12$ ^*saat$ ^*çalıştı$.
+[/0suVHCw3JyLQ]
+[0vZmJIn_FvEs#0] ^*Biliyorsunuzdur$.
+[/0vZmJIn_FvEs]
+[0y2MZfS1ONy0#0] ^*bugün$ ^*değil$, ^*dün$ ^*geldi$.
+[/0y2MZfS1ONy0]
+[14snRGH9U0kN#0] ^*Yarın$ ^*geleyim$.
+[/14snRGH9U0kN]
+[17ORnsl_DcY9#0] ^*En$ ^*keskin$.
+[/17ORnsl_DcY9]
+[1R4TUZUgMqyO#0] ^*Gelir$ ^*miyim$?
+[/1R4TUZUgMqyO]
+[1WYyW4a83Fza#0] ^*Türktüm$.
+[/1WYyW4a83Fza]
+[1WcpwWMvxXsZ#0] ^*Ermenistan$ ^*Sovyet$ ^*Sosyalist$ ^*Cumhuriyeti$.
+[/1WcpwWMvxXsZ]
+[1sGIrjyGu_lp#0] ^Эсӗ<prn><pers><p2><sg><nom>$ ^*hastanedeyken$ ^эпӗ<prn><pers><p1><sg><nom>$ ^*Moskovaya$ ^*gidip$ ^*geldim$.
+[/1sGIrjyGu_lp]
+[1vidvD44kJuA#0] ^*Içinde$
+[/1vidvD44kJuA]
+[25KjPw1TVTJ4#0] ^*Geleceksem$.
+[/25KjPw1TVTJ4]
+[2VWfVivtwQgH#0] ^Эпӗ<prn><pers><p1><sg><nom>$ ^*Moskovadan$ ^*geldikten$ ^*beri$ ^*bir$ ^*ay$ ^*geçti$.
+[/2VWfVivtwQgH]
+[3AIZDK-Bjrwv#0] ^Ку<prn><dem><nom>+ӗ<cop><aor>$ ^*günlerde$.
+[/3AIZDK-Bjrwv]
+[3AyypWQ8ntF0#0] ^*Türktüyse$.
+[/3AyypWQ8ntF0]
+[3GBLdY1Pa7IT#0] ^*Türk$ ^*imişse$.
+[/3GBLdY1Pa7IT]
+[3RpeE6GtJ1tx#0] ^*Gelmemiş$ ^ӗ<cop><dub><aor><p1><sg>$.
+[/3RpeE6GtJ1tx]
+[3X9ZmuOMX3b2#0] ^*Bir$ ^питӗ<adv>+ӗ<cop><aor>$ ^*adam$.
+[/3X9ZmuOMX3b2]
+[3jGJrKlxlZ1g#0] ^*Geleyim$ ^*mi$?
+[/3jGJrKlxlZ1g]
+[3ngmm-HtkJSD#0] ^*Türkse$.
+[/3ngmm-HtkJSD]
+[3tULFkxxL4ii#0] ^*Gelmemiş$ ^*miydik$?
+[/3tULFkxxL4ii]
+[44stZXVDVxsi#0] ^*Türk$ ^*ümüş$.
+[/44stZXVDVxsi]
+[47qrw930vo4y#0] ^*Elma$ ^*kadar$ ^*bir$ ^*şey$.
+[/47qrw930vo4y]
+[4E-i7eVzBVR9#0] ^*Gelecek$.
+[/4E-i7eVzBVR9]
+[4TNKqVNztG3U#0] ^Ир<n><nom>$ ^*olunca$ ^*yola$ ^*çıktık$.
+[/4TNKqVNztG3U]
+[4aldk_-ZMNyS#0] ^*Gelmeliymişim$.
+[/4aldk_-ZMNyS]
+[4goBk1Ju4Mx8#0] ^*Gelse$ ^*miymişim$.
+[/4goBk1Ju4Mx8]
+[5DDJL5sUk7x4#0] ^*Başka$ ^*memleketlerde$ ^*kazara$ ^*ölürler$; ^эпир<prn><pers><p1><pl><nom>$ ^*kazara$ ^*yaşıyoruz$.
+[/5DDJL5sUk7x4]
+[5JRn0MJOd2TY#0] ^*Elli$ ^*baş$ ^*sığır$.
+[/5JRn0MJOd2TY]
+[5_keOe7QgrtC#0] ^*Gelecektimse$.
+[/5_keOe7QgrtC]
+[5bDpSWXcqC_6#0] ^*Alıyorsam$.
+[/5bDpSWXcqC_6]
+[5bp_cEs7fpYe#0] ^*Yan$
+[/5bp_cEs7fpYe]
+[5gs4eL9h0AGg#0] ^*Geldi$ ^*idimse$.
+[/5gs4eL9h0AGg]
+[5iJcu3kHE-NI#0] ^*Lena$ ^*kadar$ ^*yap$.
+[/5iJcu3kHE-NI]
+[63HUxtwQRhnp#0] ^*Olur$.
+[/63HUxtwQRhnp]
+[6eCQ27VBYXe7#0] ^*Almıyordumsa$.
+[/6eCQ27VBYXe7]
+[6lNt7jGL4IKL#0] ^Вӗсем<prn><pers><p3><pl><gen>+ӗ<cop><aor>$ ^*çocukları$.
+[/6lNt7jGL4IKL]
+[7UgVp6YKraWk#0] ^*Türkmüş$.
+[/7UgVp6YKraWk]
+[7_iw0UBq3ao9#0] ^Вӑл<prn><pers><p3><sg><gen>+ӗ<cop><aor>$ ^*çocukları$.
+[/7_iw0UBq3ao9]
+[8TPK8d3KxLwC#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^ӗ<cop><ifi><p1><sg>$.
+[/8TPK8d3KxLwC]
+[8UJxDJK5P4cu#0] ^Вӑл<prn><pers><p3><sg><dat>$ ^*bir$ ^ҫыру<n><nom>+ӗ<cop><aor>$ ^*yazmışım$.
+[/8UJxDJK5P4cu]
+[8iMWugmOJgn-#0] ^*Geldi$ ^*idiysem$.
+[/8iMWugmOJgn-]
+[9CoLKyL_84D6#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^*güzel$ ^*çocukları$.
+[/9CoLKyL_84D6]
+[9NKlovmLYsYn#0] ^Кил<n><loc>+ӗ<cop><cond>$.
+[/9NKlovmLYsYn]
+[A1FZzLCHz9zc#0] ^*Gelmemiş$ ^ӗ<cop><dub><aor><p3><pl>$ ^*mi$?
+[/A1FZzLCHz9zc]
+[AlHkOCLhgZZV#0] ^*Eskiden$.
+[/AlHkOCLhgZZV]
+[B9u6H_lEoZr_#0] ^*Türk$ ^*ise$.
+[/B9u6H_lEoZr_]
+[BDEFhLR25WWw#0] ^*Her$ ^*zaman$.
+[/BDEFhLR25WWw]
+[BJYo4f90nIEG#0] ^*Sekiz$ ^*tane$ ^*mendil$.
+[/BJYo4f90nIEG]
+[BWwGfMoPrqJz#0] ^*Yağmur$ ^*için$ ^урам<n><dat>+ӗ<cop><aor>$ ^*çıkamadım$.
+[/BWwGfMoPrqJz]
+[BYz7Yb_ggWZE#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değildimse$.
+[/BYz7Yb_ggWZE]
+[Brwjp5Z5c3ud#0] ^*Gelmiş$ ^*imişsem$.
+[/Brwjp5Z5c3ud]
+[ByVlpZpBEqR4#0] ^*Geldiysem$.
+[/ByVlpZpBEqR4]
+[CJCz1UrC9D6k#0] ^Вӑл<prn><pers><p3><sg><dat>$ ^*bir$ ^ҫыру<n><nom>+ӗ<cop><aor>$ ^*yazmışımdır$.
+[/CJCz1UrC9D6k]
+[CVQV_1Ji2gQJ#0] ^Ку<prn><dem><nom>$ ^*bir$ ^кӗнеке<n><nom>$.
+[/CVQV_1Ji2gQJ]
+[CeiBGWGGIK8Y#0] ^*Kar$ ^*yağmiş$.
+[/CeiBGWGGIK8Y]
+[CjEyuCRlWV-b#0] ^Юлташ<n><px1sg><nom>$ ^эпӗ<prn><pers><p1><sg><dat>$ ^*bekliyormuş$.
+[/CjEyuCRlWV-b]
+[CqruquIXcpVu#0] ^*Alıyor$ ^*idiysem$.
+[/CqruquIXcpVu]
+[D0lotButrTdc#0] ^*Gelecek$ ^*imişsem$.
+[/D0lotButrTdc]
+[D1bt_cNF-txv#0] ^Кил<n><loc>$ ^*değil$ ^*idiysem$.
+[/D1bt_cNF-txv]
+[DigygAGR4TX9#0] ^*Gelmeliyim$.
+[/DigygAGR4TX9]
+[DmHTbeLEXz1v#0] ^Кил<n><loc>+ӗ<cop><dub><aor>$.
+[/DmHTbeLEXz1v]
+[Du7cJ3l4LwJB#0] ^*Gelseymişim$.
+[/Du7cJ3l4LwJB]
+[ELUK_q2jDxiJ#0] ^*Gelseydim$.
+[/ELUK_q2jDxiJ]
+[EanjLd1Uuivo#0] ^*Şairimdir$.
+[/EanjLd1Uuivo]
+[EdGIZ-zYPNV8#0] ^*Gelmezdim$.
+[/EdGIZ-zYPNV8]
+[EkYNYXQmQJ-t#0] ^Кил<n><loc>+ӗ<cop><aor>$.
+[/EkYNYXQmQJ-t]
+[F70jWzrBJFOC#0] ^*Gelmiş$ ^*idiysem$.
+[/F70jWzrBJFOC]
+[F8smOYbRuUg6#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^*güzel$ ^*çocukları$.
+[/F8smOYbRuUg6]
+[F9Azn96yapnu#0] ^*Hazırım$.
+[/F9Azn96yapnu]
+[FA6b3iz3Db7q#0] ^*Geldimse$.
+[/FA6b3iz3Db7q]
+[FTFE-aAL8HsF#0] ^*Almıyordum$.
+[/FTFE-aAL8HsF]
+[FZAnCOvxSpPF#0] ^*Gelecekmişim$.
+[/FZAnCOvxSpPF]
+[FcgWTBjJT43t#0] ^Эпӗ<prn><pers><p1><sg><nom>$ ^ял<n><loc>+ӗ<cop><gna_ken>$ ^анне<n><px1sg><dat>$ ^питӗ<adv>$ ^*yardım$ ^*ettim$.
+[/FcgWTBjJT43t]
+[FdPetExX9o1i#0] ^*Gelmesi$ ^*gerekecek$.
+[/FdPetExX9o1i]
+[FjPTzA-pQLZ0#0] ^*Gelmeseymişim$.
+[/FjPTzA-pQLZ0]
+[Fqc8DJ2c8KUW#0] ^Вӗсем<prn><pers><p3><pl><gen>+ӗ<cop><aor>$ ^*çocuğu$.
+[/Fqc8DJ2c8KUW]
+[GA28I8gCtWP5#0] ^*Almıyor$ ^*muyum$?
+[/GA28I8gCtWP5]
+[GJ8w80oI2onz#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değilim$.
+[/GJ8w80oI2onz]
+[GRM4A-PwIBr8#0] ^*Alıyormuşsam$.
+[/GRM4A-PwIBr8]
+[GS_qmmt3yugy#0] ^*Geleymişim$.
+[/GS_qmmt3yugy]
+[GczzoqXoTurS#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*isem$.
+[/GczzoqXoTurS]
+[GwmwVfogaqWO#0] ^*Aziz$’^*i$ ^*görmek$ ^*için$ ^*geldik$.
+[/GwmwVfogaqWO]
+[GzEtqhtF4FN2#0] ^*Buraya$ ^*gelirken$ ^*bir$ ^*şey$ ^*gördün$ ^*mü$?
+[/GzEtqhtF4FN2]
+[H3NtUNDfcFAP#0] ^*Çoktan$ ^*beri$.
+[/H3NtUNDfcFAP]
+[HRhfMnGTUOWP#0] ^Ир<n><abl>$ ^*beri$ ^*oynuyorduk$.
+[/HRhfMnGTUOWP]
+[HeZhKtkGDE7C#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*imişsem$.
+[/HeZhKtkGDE7C]
+[HlbKt55bLW1h#0] ^Хула<n><dat>$ ^*saat$ ^*10$'^*da$ ^*varmiştik$, ^*bürosuna$ ^*saat$ ^*3$'^*te$ ^*gittik$.
+[/HlbKt55bLW1h]
+[Hoz0gOFNUH7y#0] ^Кил<n><loc>+@mı<qst>$ ^ӗ<cop><ifi><p1><sg>$?
+[/Hoz0gOFNUH7y]
+[HplqIVsCpW7l#0] ^*Aniden$.
+[/HplqIVsCpW7l]
+[Hxx1G3Zju06b#0] ^*Alıyorduysam$.
+[/Hxx1G3Zju06b]
+[IDuWpgFTlb7_#0] ^*Gelmedi$ ^*miydim$?
+[/IDuWpgFTlb7_]
+[Io1Sls_TD92b#0] ^Кил<n><loc>$ ^*değil$ ^*isem$.
+[/Io1Sls_TD92b]
+[Ixb7EfXKhakV#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^*gibi$ ^*yap$.
+[/Ixb7EfXKhakV]
+[J7a1UXOzfFD4#0] ^*Almıyormuşsam$.
+[/J7a1UXOzfFD4]
+[JL10JyNACDL6#0] ^Эпӗ<prn><pers><p1><sg><abl>$ ^*başka$
+[/JL10JyNACDL6]
+[JPfVFS7hUaNM#0] ^Ку<prn><dem><nom>$ ^*yazıya$ ^*Bakan$ ^*kızmasın$ ^*da$, ^*kim$ ^*kızsındı$?
+[/JPfVFS7hUaNM]
+[JUHfrJ4cpHfg#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değilmişsem$.
+[/JUHfrJ4cpHfg]
+[JdDyEhiNdXeO#0] ^*Alıyordum$.
+[/JdDyEhiNdXeO]
+[Ji2apMV8J-N9#0] ^Кил<n><loc>+@mı<qst>$ ^ӗ<cop><aor><p1><sg>$?
+[/Ji2apMV8J-N9]
+[JtBxpPgPsbtx#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^питӗ<adv>$ ^*güzel$ ^*çocukları$.
+[/JtBxpPgPsbtx]
+[Jtmb9VjblHqO#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değildim$.
+[/Jtmb9VjblHqO]
+[KGU-Z2KUNlRa#0] ^*Gelmesem$.
+[/KGU-Z2KUNlRa]
+[KNOGmZrcV5ZQ#0] ^Ҫанталӑк<n><px3sp><dat>+ӗ<cop><aor>$ ^*göre$.
+[/KNOGmZrcV5ZQ]
+[KUViv1bEeJFk#0] ^*Beş$ ^кил<n><nom>$.
+[/KUViv1bEeJFk]
+[KXe5Wc6kls0E#0] ^*Alıyordumsa$.
+[/KXe5Wc6kls0E]
+[K_UFxE2eYGjo#0] ^*ne$ ^*tür$
+[/K_UFxE2eYGjo]
+[KhGXe0f-D_CP#0] ^*Çocuk$ ^*derse$ ^*geldiği$ ^*halde$ ^*hazır$ ^*değildi$.
+[/KhGXe0f-D_CP]
+[LHw6CoFVgI5p#0] ^Кил<n><loc>$ ^*değil$ ^*miydim$?
+[/LHw6CoFVgI5p]
+[LLuk3JW3ju7F#0] ^*Gelir$ ^*idiysem$.
+[/LLuk3JW3ju7F]
+[LR950Vwj6hUe#0] ^*Gelir$ ^*imişsem$.
+[/LR950Vwj6hUe]
+[LW6iO_ZBSp0X#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^питӗ<adv>$ ^*güzel$ ^тата<cnjcoo>$ ^*uzun$ ^*boylu$ ^*çocukları$.
+[/LW6iO_ZBSp0X]
+[LwShhDwvnKFY#0] ^*Olmyıası$.
+[/LwShhDwvnKFY]
+[M34IFe1VXiNB#0] ^*Gelmese$ ^*miymişim$.
+[/M34IFe1VXiNB]
+[MFlmkDr3aNRl#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değilmişim$.
+[/MFlmkDr3aNRl]
+[MNnsN1sv0Gzj#0] ^*Geleyim$.
+[/MNnsN1sv0Gzj]
+[McYzPwN6jaeD#0] ^Анне<n><px1sg><nom>$ ^*telefon$ ^*etmedikçe$ ^кил<n><abl>+ӗ<cop><aor>$ ^*çıkmam$.
+[/McYzPwN6jaeD]
+[Mhd6l5_HnWlh#0] ^*Yedide$ ^*dört$.
+[/Mhd6l5_HnWlh]
+[O3BLn5gKNT-C#0] ^*Gelecektiysem$.
+[/O3BLn5gKNT-C]
+[OLOmNac4DoUA#0] ^*Üçte$ ^*bir$.
+[/OLOmNac4DoUA]
+[OWuv-nGGg_Ug#0] ^*Türk$ ^*idiyse$.
+[/OWuv-nGGg_Ug]
+[OYafk2buOw9e#0] ^*Almıyor$ ^*imişsem$.
+[/OYafk2buOw9e]
+[PD1_XMRZ_X2e#0] ^*Gelsem$.
+[/PD1_XMRZ_X2e]
+[PSi6Y-jkFds2#0] ^*Daha$ ^*kötü$.
+[/PSi6Y-jkFds2]
+[QGHKuGbNcmGI#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^*kadar$ ^*yap$.
+[/QGHKuGbNcmGI]
+[QGsDcKILYYB-#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^*fikrine$ ^*göre$...
+[/QGsDcKILYYB-]
+[QifzTMgsQjcr#0] ^Ӗҫ<n><px1pl><dat>$ ^*bitirip$ ^*sinemaya$ ^*gittik$.
+[/QifzTMgsQjcr]
+[RFH79cXPFto_#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*idiysem$.
+[/RFH79cXPFto_]
+[RIZ6Wb_HZVFC#0] ^*Almıyorsam$.
+[/RIZ6Wb_HZVFC]
+[RLYDUMCz973V#0] ^*Gelmeseydim$.
+[/RLYDUMCz973V]
+[RRrPoEcVF2RF#0] ^*Almıyor$ ^*muymuşum$?
+[/RRrPoEcVF2RF]
+[RwNqYrs6OEIJ#0] ^*Gelmişmişim$.
+[/RwNqYrs6OEIJ]
+[Rxv5Fk2lKhdo#0] ^*Ali$ ^*bahçede$ ^*oynadığı$ ^*zaman$ ^*kardeşi$ ^кил<n><loc>$ ^*derslere$ ^*ҫalışıyor$.
+[/Rxv5Fk2lKhdo]
+[SFXBzajA_szJ#0] ^*Gele$ ^*mi$?
+[/SFXBzajA_szJ]
+[SyRP3x-VrAhh#0] ^*Bileydim$ ^*buraya$ ^*kadar$ ^*gelmezdim$.
+[/SyRP3x-VrAhh]
+[T66pUw8V9rWn#0] ^*Gelmem$.
+[/T66pUw8V9rWn]
+[TGk9F4GG247O#0] ^*Yarın$ ^*gelirım$.
+[/TGk9F4GG247O]
+[TOQ_F4QZYr69#0] ^*Geldimdi$.
+[/TOQ_F4QZYr69]
+[ThgKlEsxE8MV#0] ^*Daha$ ^*iyi$.
+[/ThgKlEsxE8MV]
+[U3vJQbAtDWDy#0] ^*Gelirdim$.
+[/U3vJQbAtDWDy]
+[U64Uuon-1uDw#0] ^*Geldiydim$.
+[/U64Uuon-1uDw]
+[UCysrTbD0fVr#0] ^Ку<prn><dem><nom>$ ^кӗнеке<n><px3sp><nom>$ ^эсӗ<prn><pers><p2><sg><gen>$ ^*için$ ^*aldım$.
+[/UCysrTbD0fVr]
+[UJv30gsNXTLM#0] ^Юлташ<n><px1sg><nom>$ ^эпӗ<prn><pers><p1><sg><dat>$ ^*bekliyordur$.
+[/UJv30gsNXTLM]
+[UUp4FhuX5nVj#0] ^*Otobüse$ ^*binerek$ ^кил<n><dat>+ӗ<cop><aor>$ ^*gittim$.
+[/UUp4FhuX5nVj]
+[UtjNd76Ra2il#0] ^*Gelmesem$ ^*miymişi$.
+[/UtjNd76Ra2il]
+[UtjuKaf9vRpk#0] ^Кил<n><loc>+@mı<qst>$ ^ӗ<cop><ifi><p1><sg>$?
+[/UtjuKaf9vRpk]
+[VBXQSg44n0P1#0] ^*Uzun$ ^*kız$.
+[/VBXQSg44n0P1]
+[VG0St--euvku#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^*gizli$ ^*fikirlerini$ ^*halk$ ^*ne$ ^*bilsindi$?
+[/VG0St--euvku]
+[VG5-JzBxzmm7#0] ^*Beş$ ^*tane$ ^*anahtar$.
+[/VG5-JzBxzmm7]
+[VXEnkadA-gfH#0] ^*Yorganına$ ^*göre$ ^*ayağını$ ^*uzat$.
+[/VXEnkadA-gfH]
+[VcGROriLRArz#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^питӗ<adv>$ ^*güzel$ ^тата<cnjcoo>$ ^*uzun$ ^*boylu$ ^*çocuğu$.
+[/VcGROriLRArz]
+[VmZ62ByU_oQN#0] ^Кил<n><loc>$ ^*değil$ ^ӗ<cop><ifi><p1><sg>$.
+[/VmZ62ByU_oQN]
+[WH3FAundeTOk#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değilsem$.
+[/WH3FAundeTOk]
+[WOM6w-XCwOlD#0] ^*Orta$ ^шкул<n><px3sp><nom>$ ^*bitirdikten$ ^*sonra$ ^*enstitüye$ ^*gireceğim$.
+[/WOM6w-XCwOlD]
+[Wf3_gN3NpvOa#0] ^*Geldi$ ^*miydim$?
+[/Wf3_gN3NpvOa]
+[WxWIjLwNOIys#0] ^*Gelmeli$ ^ӗ<cop><ifi><p1><sg>$.
+[/WxWIjLwNOIys]
+[XH5z36TH7bBd#0] ^*Gelmişim$.
+[/XH5z36TH7bBd]
+[XSJ5JGqGzGPJ#0] ^*Gelmiştir$.
+[/XSJ5JGqGzGPJ]
+[XYG8bHt2dDhX#0] ^*Gelmişsem$.
+[/XYG8bHt2dDhX]
+[XgJLTJEtbH8s#0] ^*Gelmiş$ ^*miydik$?
+[/XgJLTJEtbH8s]
+[Y88UdJ2y9v4L#0] ^*Gelecek$ ^*miydim$?
+[/Y88UdJ2y9v4L]
+[YSF6zYWS3TVF#0] ^*Kitaplıktaki$ ^*kitapın$ ^*yeri$
+[/YSF6zYWS3TVF]
+[YfNcl8ZRo27X#0] ^*Türk$ ^*müyüm$?
+[/YfNcl8ZRo27X]
+[Yfk1TDHEO-0r#0] ^*Gelmemeliydim$.
+[/Yfk1TDHEO-0r]
+[ZAJVgFilnGM7#0] ^*Gelsem$ ^*miymişi$.
+[/ZAJVgFilnGM7]
+[ZFkUReVU0RjL#0] ^*Çuvaşistan$ ^*Özerk$ ^*Sovyet$ ^*Sosyalist$ ^*Cumhuriyeti$.
+[/ZFkUReVU0RjL]
+[Zw3LZkhJqTjw#0] ^*Gelmiş$ ^ӗ<cop><dub><aor><p1><sg>$.
+[/Zw3LZkhJqTjw]
+[ZxdsljsuzDa3#0] ^Кил<n><loc>$ ^*değil$ ^*mi$ ^ӗ<cop><ifi><p1><sg>$?
+[/ZxdsljsuzDa3]
+[_IpB_R9hhJ_g#0] ^*Alıyor$ ^*imişsem$.
+[/_IpB_R9hhJ_g]
+[a43SvwQqQFnv#0] ^*Gelmiyecek$.
+[/a43SvwQqQFnv]
+[aYzP2ukA-hG_#0] ^*Gelmiyeyim$ ^*mi$?
+[/aYzP2ukA-hG_]
+[ahduny0LT_oa#0] ^*Kalemsizler$.
+[/ahduny0LT_oa]
+[bxzaE0oOOfH0#0] ^Юлташ<n><px1sg><nom>$ ^эпӗ<prn><pers><p1><sg><dat>$ ^*bekliyor$.
+[/bxzaE0oOOfH0]
+[c1-vrZieQMuu#0] ^*Gelmeliydim$.
+[/c1-vrZieQMuu]
+[c8uqJDU2ASbe#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^*güzel$ ^тата<cnjcoo>$ ^*uzun$ ^*boylu$ ^*çocukları$.
+[/c8uqJDU2ASbe]
+[cqGFjdszxmrS#0] ^*Yüzde$ ^*yirmi$ ^*beş$.
+[/cqGFjdszxmrS]
+[d6mqwZS0LGMi#0] ^*Olur$ ^*mu$?
+[/d6mqwZS0LGMi]
+[dBQIcSycNhF5#0] ^*Yirmi$ ^сӗтел<n><nom>$.
+[/dBQIcSycNhF5]
+[dDuQF__sfirE#0] ^Атте<n><px3sp><nom>$ ^кил<n><abl>$ ^*çıkar$ ^*çıkmaz$ ^*kızı$ ^*ağlamaya$ ^*başladı$.
+[/dDuQF__sfirE]
+[dM5n_XUUdW2P#0] ^*Gelmez$ ^*miyim$?
+[/dM5n_XUUdW2P]
+[e-Isce8Yor3G#0] ^*Gelecek$ ^ӗ<cop><dub><aor><p1><sg>$.
+[/e-Isce8Yor3G]
+[e_K31eRRuNd_#0] ^Эпӗ<prn><pers><p1><sg><nom>$ ^*sadece$ ^ку<prn><dem><px3sp><nom>$ ^*söylemek$ ^*isterdim$.
+[/e_K31eRRuNd_]
+[eg_Hn5IlUeoH#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^*değildiysem$.
+[/eg_Hn5IlUeoH]
+[fRNm3lMgWwdz#0] ^*Geleceğim$.
+[/fRNm3lMgWwdz]
+[fWoJ9povOlNF#0] ^*Gelmemiz$ ^*gerektiyse$.
+[/fWoJ9povOlNF]
+[fmilhGt7aySC#0] ^*Evdeydimse$.
+[/fmilhGt7aySC]
+[guQH91H1-YEn#0] ^*Gelmemişim$.
+[/guQH91H1-YEn]
+[h-LjADa4SMUh#0] ^*Ne$ … ^*ne$
+[/h-LjADa4SMUh]
+[hJ9pNAShTj48#0] ^*Köprüye$ ^*doğru$ ^*gidiyoruz$.
+[/hJ9pNAShTj48]
+[h_FvKNR5cZX0#0] ^*Almıyormuşum$.
+[/h_FvKNR5cZX0]
+[hfCN4_tuZi9B#0] ^*Hem$ ^*Rusça$, ^*hem$ ^*Çuvaşca$.
+[/hfCN4_tuZi9B]
+[hhCDNF7UTA5q#0] ^Кил<n><dat>+@mı<qst>$ ^*ola$?
+[/hhCDNF7UTA5q]
+[hvNbIk56vqu1#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^*güzel$ ^тата<cnjcoo>$ ^*uzun$ ^*boylu$ ^*çocuğu$.
+[/hvNbIk56vqu1]
+[iFSRhmJpndZW#0] ^Кил<n><loc>+ӗ<cop><aor>$ ^ӗ<cop><dub><aor><p1><sg>$.
+[/iFSRhmJpndZW]
+[iL2p4B_OFOls#0] ^*En$ ^*güzel$.
+[/iL2p4B_OFOls]
+[iNd-vn4pPOLK#0] ^*Alıyormuşum$.
+[/iNd-vn4pPOLK]
+[i_xTG-eZlbfK#0] ^*Bir$ ^*şey$ ^*söylemeden$ ^*gitti$.
+[/i_xTG-eZlbfK]
+[jL-Kdris605_#0] ^*Okumuşsunuzdur$.
+[/jL-Kdris605_]
+[k94JZPcY0PV7#0] ^*Geleydim$.
+[/k94JZPcY0PV7]
+[kRqWIzQk-F0o#0] ^*Okumuşsunuz$.
+[/kRqWIzQk-F0o]
+[kt8Ts5ZeOD09#0] ^*Gelmemeliyim$.
+[/kt8Ts5ZeOD09]
+[kumxkz4Pt_G4#0] ^*Devamlı$ ^*olarak$.
+[/kumxkz4Pt_G4]
+[l1DCnAgJ7Pfd#0] ^*Öğretmen$ ^*anlattıkça$ ^*merakımız$ ^*atıyordu$.
+[/l1DCnAgJ7Pfd]
+[l5_Ys6AV0l3y#0] ^*Gelmemeli$ ^ӗ<cop><ifi><p1><sg>$.
+[/l5_Ys6AV0l3y]
+[lECOaIWWrmyu#0] ^*Gelmeli$ ^*miydiniz$?
+[/lECOaIWWrmyu]
+[lL2Y2K0d-MlZ#0] ^*Esma$ ^*girer$, ^*oturur$.
+[/lL2Y2K0d-MlZ]
+[lxHoNO1eov3F#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^питӗ<adv>$ ^*güzel$ ^*çocuğu$.
+[/lxHoNO1eov3F]
+[mDxqh1U1vC14#0] ^Кил<n><loc>+ӗ<cop><ifi>$.
+[/mDxqh1U1vC14]
+[mN8zl9vN_-wj#0] ^*Gelmeli$ ^ӗ<cop><ifi><p1><sg>$?
+[/mN8zl9vN_-wj]
+[mNLefdp_5GoI#0] ^*Geldim$ ^*mi$?
+[/mNLefdp_5GoI]
+[mRWlA0BQXS21#0] ^*Kör$ ^*olası$.
+[/mRWlA0BQXS21]
+[mV8wuYDQepR6#0] ^Эпӗ<prn><pers><p1><sg><nom>$ ^кил<n><loc>$ ^*yalnız$ ^*oturuyorum$.
+[/mV8wuYDQepR6]
+[mdJuBk0vIDvO#0] ^*Türküm$.
+[/mdJuBk0vIDvO]
+[mlW_g7hE6DVG#0] ^*Gelmemeliymişim$.
+[/mlW_g7hE6DVG]
+[mwHc9BKJkapy#0] ^Кил<n><loc>$ ^*değil$ ^*imişseim$.
+[/mwHc9BKJkapy]
+[n8zzsEMGh6fm#0] ^*Gelme$!
+[/n8zzsEMGh6fm]
+[nRmB9ZrLuuBd#0] ^*Alıyor$ ^*muydum$?
+[/nRmB9ZrLuuBd]
+[ngcxx6w4LrX1#0] -^*da$, -^*de$
+[/ngcxx6w4LrX1]
+[nuhSYW75Otp2#0] ^*Alıyor$ ^*muymuşum$?
+[/nuhSYW75Otp2]
+[o1LdWRlIu4KT#0] ^*Gelecektir$.
+[/o1LdWRlIu4KT]
+[oTeVJXm2rs1v#0] ^Кил<n><dat>$ ^*girmeden$ ^*önce$ ^*mağazaya$ ^*gittim$.
+[/oTeVJXm2rs1v]
+[p3D21to4IXAb#0] ^*Gel$!
+[/p3D21to4IXAb]
+[p4V8-4AFSp5D#0] ^*Yüz$ ^*baş$ ^*koyun$.
+[/p4V8-4AFSp5D]
+[pKSz2RJei-8X#0] ^*Gelmekteydim$.
+[/pKSz2RJei-8X]
+[pXGL1RVl4l0H#0] ^*Geldim$ ^*miydi$?
+[/pXGL1RVl4l0H]
+[pjZj3QmXnkQO#0] ^*Almakta$ ^*değildim$.
+[/pjZj3QmXnkQO]
+[pnbc01KlbVOA#0] ^*Gelmem$ ^*gerekirse$.
+[/pnbc01KlbVOA]
+[q04pHzdI6RS9#0] ^*Olmaz$.
+[/q04pHzdI6RS9]
+[qVdHGzSsEmxr#0] -^*e$ ^*rağmen$
+[/qVdHGzSsEmxr]
+[qiy2zhv0meoL#0] ^*Gelecek$ ^*idiysem$.
+[/qiy2zhv0meoL]
+[qvqGSNGbFn2L#0] ^*Çünkü$
+[/qvqGSNGbFn2L]
+[r5VLvgUENPB4#0] ^*Gelecektim$.
+[/r5VLvgUENPB4]
+[rTjp20Oj3OGD#0] ^*Ali$ ^*çalışırken$ ^*konuşmaz$.
+[/rTjp20Oj3OGD]
+[sGMCPrkG8pMw#0] ^*Gelmedim$ ^*miydi$?
+[/sGMCPrkG8pMw]
+[soTtgnzPCPgY#0] ^Ҫанталӑк<n><nom>$ ^*sıcakken$ ^эпир<prn><pers><p1><pl><nom>$ ^*her$ ^*zaman$ ^*Volga$ ^*yanına$ ^*gidiyorduk$.
+[/soTtgnzPCPgY]
+[syYVjT29EQK4#0] ^*Gelirdiysem$.
+[/syYVjT29EQK4]
+[t8_8iIp9DP96#0] ^*Almıyorduysam$.
+[/t8_8iIp9DP96]
+[tHkunx7-nKeR#0] ^*Almıyor$ ^*muydum$?
+[/tHkunx7-nKeR]
+[tQWYBfTEp8j7#0] ^*Gelir$ ^*miydim$?
+[/tQWYBfTEp8j7]
+[tQaLllUt5n1M#0] ^Вӑл<prn><pers><p3><sg><dat>$ ^*akşama$ ^*kadar$ ^*bekledik$.
+[/tQaLllUt5n1M]
+[uE4czNhLrYl6#0] ^*Taş$ ^*köprü$.
+[/uE4czNhLrYl6]
+[uLCXp5iJb_3b#0] ^Атте<n><px1sg><nom>$ ^*dede$ ^*ki$, ^*yarın$ ^эпир<prn><pers><p1><pl><dat>$ ^*gelesiniz$.
+[/uLCXp5iJb_3b]
+[uYeLHOl0qZFf#0] ^*Türkmüşse$.
+[/uYeLHOl0qZFf]
+[uZcS579UN8SH#0] ^*Gelmemeli$ ^*miydik$?
+[/uZcS579UN8SH]
+[upCjEBda4AQV#0] ^*Gelirsem$.
+[/upCjEBda4AQV]
+[utDA5weSAiM-#0] ^*Almıyor$ ^*idiysem$.
+[/utDA5weSAiM-]
+[vAYuMycOu6KH#0] ^Вӑл<prn><pers><p3><sg><gen>$ ^*güzel$ ^тата<cnjcoo>$ ^*uzun$ ^*boylu$ ^*çocukları$.
+[/vAYuMycOu6KH]
+[vCYWJ-sGNqLH#0] ^*Gelse$ ^ӗ<cop><dub><aor><p1><sg>$.
+[/vCYWJ-sGNqLH]
+[vKsM34sbbeNw#0] -^*e$ ^*doğru$
+[/vKsM34sbbeNw]
+[vP6rkhTu0vVs#0] ^*Anna$ ^*müdürken$ ^шкул<n><loc>$ ^*çocuk$ ^питӗ<adv>+ӗ<cop><ifi>$.
+[/vP6rkhTu0vVs]
+[vS6PAtqq3GD4#0] ^*Beş$ ^*kilo$ ^*kadar$.
+[/vS6PAtqq3GD4]
+[vqUYd_NzPsxC#0] ^*Taraf$.
+[/vqUYd_NzPsxC]
+[wNkm8wVPDvg2#0] ^*Buz$ ^*gibi$ ^сивӗ<n><nom>$.
+[/wNkm8wVPDvg2]
+[w_WJsxfHJ-6E#0] ^Эпӗ<prn><pers><p1><sg><nom>$ ^*orada$ ^ӗ<cop><gna_ken>$ ^*yağmur$ ^*yağmaya$ ^*başladı$.
+[/w_WJsxfHJ-6E]
+[wrZr7KUsjuta#0] ^*Bugün$ ^эпӗ<prn><pers><p1><sg><dat>$ ^*gelecek$ ^*misin$?
+[/wrZr7KUsjuta]
+[xAr2dGTmTPJw#0] ^*Elmasını$ ^*elinde$ ^*tutamayınca$ ^*çocuk$ ^*bağırdı$.
+[/xAr2dGTmTPJw]
+[xGlPLpPVxOfV#0] ^Вӑл<prn><pers><p3><sg><nom>$
+[/xGlPLpPVxOfV]
+[xelJN0vXtB7T#0] ^*Gelirmişsem$.
+[/xelJN0vXtB7T]
+[xkJJJreu6VTt#0] ^*Gelecekmişsem$.
+[/xkJJJreu6VTt]
+[xpTFsLS_U5Hv#0] ^*Gelmiştim$.
+[/xpTFsLS_U5Hv]
+[xuD_5BJDwu3P#0] ^*Gece$ ^*olmayınca$ ^*yıldız$ ^*görünmez$.
+[/xuD_5BJDwu3P]
+[xxlQ-wzwrMYP#0] ^*Gelmedim$ ^*mi$?
+[/xxlQ-wzwrMYP]
+[y1jkYAvwFCy-#0] ^*ne$
+[/y1jkYAvwFCy-]
+[y5oLw2AzE7hU#0] ^*Gelirmişim$.
+[/y5oLw2AzE7hU]
+[yD-YdD-5RRIj#0] ^*Son$ ^*zamanlarda$.
+[/yD-YdD-5RRIj]
+[ygtjpguynG5L#0] ^*Gelmiyecek$ ^*miyim$?
+[/ygtjpguynG5L]
+[yvxYJ2btFdgC#0] ^*Kalemsiz$ ^*küçük$ ^*kız$.
+[/yvxYJ2btFdgC]
+[z2i2gpoqWtmP#0] ^*On$ ^*buçuk$ ^*kilometre$.
+[/z2i2gpoqWtmP]
+[zVcb7Mu-AxPq#0] ^*Türk$ ^ӗ<cop><ifi><p3><sg>$.
+[/zVcb7Mu-AxPq]
+[zcfYZ-lsEtnC#0] ^Вӗсем<prn><pers><p3><pl><gen>$ ^*güzel$ ^*çocuğu$.
+[/zcfYZ-lsEtnC]
+[zdd4-KrzhijY#0] ^*Ayşe$ ^*hastalanalı$ ^*tam$ ^*bir$ ^*sene$ ^*olmuştu$.
+[/zdd4-KrzhijY]
+[zoxAhV9_qSrA#0] ^*Şairim$.
+[/zoxAhV9_qSrA]
+[zx2rYfztOecR#0] ^Эпӗ<prn><pers><p1><sg><nom>$ ^*çocuk$ ^ӗ<cop><gna_ken>$ ^*öğrenmeye$ ^питӗ<adv>+ӗ<cop><aor>$ ^*seviyordum$.
+[/zx2rYfztOecR]

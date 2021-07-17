@@ -1,0 +1,10 @@
+{
+    "tur-chv-pending": {
+        "input": "tur-chv-pending-input.txt",
+        "mode": "tur-chv"
+    },
+    "tur-chv-regression": {
+        "input": "tur-chv-regression-input.txt",
+        "mode": "tur-chv"
+    }
+}
